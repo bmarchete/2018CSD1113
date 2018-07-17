@@ -45,7 +45,7 @@
 <div class="collapse navbar-collapse" id="navbarColor03">
     <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-            <a class="nav-link" href="/">Home
+            <a class="nav-link" href="index.html">Home
                 <span class="sr-only">(current)</span>
             </a>
         </li>
@@ -68,3 +68,37 @@
   navEL.innerHTML = nav;
   headerEl.innerHTML = header;
 })();
+
+setSignUp = (name, email, password) => {
+  const data =
+    (r = JSON.parse(localStorage.getItem("users"))) === null ? [] : r;
+  data.push({ name, email, password });
+  localStorage.setItem("users", JSON.stringify(data));
+};
+
+login = (email, password) => {
+  const data =
+    (r = JSON.parse(localStorage.getItem("users"))) === null ? false : r;
+
+  if (!data) return false;
+
+  const user = (x = data.find(r => r.email == email && r.password == password))
+    ? x
+    : false;
+
+  if (!user) return false;
+
+  localStorage.setItem("isLogged", "true");
+
+  return true;
+};
+
+isLogged = () => {
+  return (r = JSON.parse(localStorage.getItem("isLogged"))) === null
+    ? false
+    : r === true
+      ? true
+      : false;
+};
+
+logout = () => localStorage.removeItem("isLogged");
