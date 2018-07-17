@@ -102,3 +102,55 @@ isLogged = () => {
 };
 
 logout = () => localStorage.removeItem("isLogged");
+
+setTourismData = () => {
+  const data = [
+    {
+      id: 1,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/mock.jpg"
+    },
+    {
+      id: 2,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/mock.jpg"
+    },
+    {
+      id: 3,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/mock.jpg"
+    }
+  ];
+  localStorage.setItem("tourismThumb", JSON.stringify(data));
+};
+
+fillTourismDataThumbs = () => {
+  const data = JSON.parse(localStorage.getItem("tourismThumb"));
+
+  const dataEl = data
+    .map(t => {
+      return `
+      <div class="col-4  mb-3">
+        <div class="card">
+            <img class="card-img-top" src="${t.img}" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">${t.title}</h5>
+                <p class="card-text">${t.body}</p>
+                <a href="tourist-details.html?id=${
+                  t.id
+                }" class="btn btn-primary">See more</a>
+            </div>
+        </div>
+      </div>`;
+    })
+    .join("");
+
+  const tourismThumbs = document.querySelector("#tourism-thumbs");
+  tourismThumbs.innerHTML = dataEl;
+};
