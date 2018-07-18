@@ -135,6 +135,8 @@
 
     <script src="js/base-script.js"></script>
     <script>
+        setSignUp('a', 'a@a', '123');
+        login('a@a', '123');
         if (!isLogged()) {
             alert('You need to Login to see this page');
             window.location.href = "index.html";
