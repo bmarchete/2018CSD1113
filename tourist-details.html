@@ -63,7 +63,8 @@
                                     ex irure..</p>
 
                                 <h4>Address</h4>
-                                <p>Fake address</p>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.08788124993!2d-79.39577548483344!3d43.66714207912075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34ba59169db9%3A0x3eba77bce0e0702!2sMuseum+Station!5e0!3m2!1sen!2sca!4v1531921788779"
+                                    width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                                 <h4>Cost</h4>
                                 <p>$99.99</p>
@@ -92,33 +93,18 @@
                             <div class="card-header bg-info text-light text-center">Comments</div>
                             <div class="card-body">
 
-                                <form action="">
+                                <form id="comments">
                                     <div class="form-group">
                                         <label for="comment">Leave your comment</label>
-                                        <textarea name="comment" id="comment" rows="5" class="form-control"></textarea>
+                                        <textarea autocomplete="off" name="comment" id="comment" rows="5" class="form-control"></textarea>
                                     </div>
-                                    <button class="btn btn-success btn-lg">Submit</button>
+                                    <button id="button-submit" class="btn btn-success btn-lg">Submit</button>
                                 </form>
 
                                 <hr>
                                 <h3 class="mt-3">Last comments</h3>
 
-                                <ul class="list-group">
-                                    <li class="list-group-item">
-                                        Cras justo odio
-                                    </li>
-                                    <li class="list-group-item">
-                                        Cras justo odio
-                                    </li>
-                                    <li class="list-group-item">
-                                        Cras justo odio
-                                    </li>
-                                    <li class="list-group-item">
-                                        Cras justo odio
-                                    </li>
-                                    <li class="list-group-item">
-                                        Cras justo odio
-                                    </li>
+                                <ul id="show-comments" class="list-group">
 
                                 </ul>
 
@@ -134,6 +120,7 @@
     </div>
 
     <script src="js/base-script.js"></script>
+    <script src="js/comments.js"></script>
     <script>
         setSignUp('a', 'a@a', '123');
         login('a@a', '123');
@@ -142,7 +129,24 @@
             window.location.href = "index.html";
         }
 
+
+        const comments = document.querySelector("#comments");
         const myParam = location.search.split('id=')[1]
+
+        showComment(myParam);
+
+        comments.addEventListener("submit", () => {
+            event.preventDefault();
+
+            newComment(myParam, comments["comment"].value, 'user');
+            comments["comment"].value = "";
+            comments["button-submit"].blur();
+
+
+            showComment(myParam);
+
+        });
+
         console.log(myParam);
     </script>
 </body>
