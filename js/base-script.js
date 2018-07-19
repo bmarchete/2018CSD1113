@@ -1,5 +1,8 @@
 // generates header and nav
-(() => {
+window.onload = () => {
+  header();
+};
+header = () => {
   const header = ` 
 <div class="row">
     <div class="col">
@@ -67,7 +70,7 @@
 
   navEL.innerHTML = nav;
   headerEl.innerHTML = header;
-})();
+};
 
 setSignUp = (name, email, password) => {
   const data =
