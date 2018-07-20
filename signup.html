@@ -25,10 +25,14 @@
 
 <body>
 
+
+
     <div class="card bg-light mb-3" style="width: 400px;">
         <div class="card-header bg-info text-light text-center">Register</div>
         <div class="card-body">
             <form class="form-horizontal" id="register" action="index.html">
+                <a href="index.html">Back to Home page</a>
+                <hr>
                 <p id="alert" class="alert alert-warning text-center d-none"></p>
                 <div class="form-group">
                     <label for="name" class="">Your Name</label>
@@ -51,7 +55,7 @@
                 <div class="form-group">
                     <label for="cpassword" class="">Confirm your password</label>
                     <div class="input-group">
-                        <input type="password" class="form-control" name="name" id="cpassword" placeholder="Enter your cpassword" required>
+                        <input type="password" class="form-control" name="name" id="cpassword" placeholder="Confirm your password" required>
                     </div>
                 </div>
 
@@ -65,6 +69,9 @@
 
     <script src="js/base-script.js"></script>
     <script src="js/register.js"></script>
+    <script>
+        fillHeader();
+    </script>
 
 </body>
 
