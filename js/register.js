@@ -11,8 +11,7 @@ register.addEventListener("submit", () => {
   );
 
   if (message === "ok") {
-    const isLogged = { email: register["email"].value };
-    localStorage.setItem("isLogged", JSON.stringify(isLogged));
+    storeLogin(register["email"].value);
     window.location.href = "index.html";
   } else {
     const alert = document.querySelector("#alert");
