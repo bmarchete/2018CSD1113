@@ -30,7 +30,7 @@
 
                 <ul class="list-group">
                     <li class="list-group-item">
-                        Cras justo odio
+                        Casa Loma
                     </li>
                     <li class="list-group-item">
                         Cras justo odio
@@ -138,7 +138,7 @@
             comments.addEventListener("submit", () => {
                 event.preventDefault();
 
-                newComment(myParam, comments["comment"].value, 'user');
+                newComment(myParam, comments["comment"].value, isLogged());
                 comments["comment"].value = "";
                 comments["button-submit"].blur();
 

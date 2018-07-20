@@ -51,3 +51,6 @@ fillTourismDataThumbs = () => {
   const tourismThumbs = document.querySelector("#tourism-thumbs");
   tourismThumbs.innerHTML = dataEl;
 };
+
+setTourismData();
+fillTourismDataThumbs();
