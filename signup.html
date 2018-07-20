@@ -8,14 +8,64 @@
     <title>Page title</title>
 
     <link rel="stylesheet" href="css/style-base.css">
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
 
 </head>
 
 <body>
 
-    <div class="container">
-        <!-- Here goes every content of the site -->
+    <div class="card bg-light mb-3" style="width: 400px;">
+        <div class="card-header bg-info text-light text-center">Register</div>
+        <div class="card-body">
+            <form class="form-horizontal" id="register" action="index.html">
+                <p id="alert" class="alert alert-warning text-center d-none"></p>
+                <div class="form-group">
+                    <label for="name" class="">Your Name</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" name="name" id="name" placeholder="Enter your Name" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="email" class="">Your email</label>
+                    <div class="input-group">
+                        <input type="email" class="form-control" name="name" id="email" placeholder="Enter your email" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="password" class="">Your password</label>
+                    <div class="input-group">
+                        <input type="password" class="form-control" name="name" id="password" placeholder="Enter your password" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="cpassword" class="">Confirm your password</label>
+                    <div class="input-group">
+                        <input type="password" class="form-control" name="name" id="cpassword" placeholder="Enter your cpassword" required>
+                    </div>
+                </div>
+
+                <div class="form-group ">
+                    <button type="submit" class="btn btn-info btn-lg btn-block">Register</button>
+                </div>
+
+            </form>
+        </div>
     </div>
+
+    <script src="js/base-script.js"></script>
+    <script src="js/register.js"></script>
+
 </body>
 
 </html>

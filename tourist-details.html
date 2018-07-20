@@ -122,32 +122,30 @@
     <script src="js/base-script.js"></script>
     <script src="js/comments.js"></script>
     <script>
-        setSignUp('a', 'a@a', '123');
-        login('a@a', '123');
         if (!isLogged()) {
             alert('You need to Login to see this page');
             window.location.href = "index.html";
-        }
+        } else {
 
+            header();
 
-        const comments = document.querySelector("#comments");
-        const myParam = location.search.split('id=')[1]
-
-        showComment(myParam);
-
-        comments.addEventListener("submit", () => {
-            event.preventDefault();
-
-            newComment(myParam, comments["comment"].value, 'user');
-            comments["comment"].value = "";
-            comments["button-submit"].blur();
-
+            const comments = document.querySelector("#comments");
+            const myParam = location.search.split('id=')[1]
 
             showComment(myParam);
 
-        });
+            comments.addEventListener("submit", () => {
+                event.preventDefault();
 
-        console.log(myParam);
+                newComment(myParam, comments["comment"].value, 'user');
+                comments["comment"].value = "";
+                comments["button-submit"].blur();
+
+
+                showComment(myParam);
+
+            });
+        }
     </script>
 </body>
 
