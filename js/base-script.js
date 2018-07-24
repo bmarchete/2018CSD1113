@@ -135,9 +135,33 @@ isLogged = () => {
   return r === null ? false : r.email;
 };
 
-logout = () => {
-  localStorage.removeItem("isLogged");
-  window.location.href = "index.html";
+logout = () => localStorage.removeItem("isLogged");
+
+setTourismData = () => {
+  const data = [
+    {
+      id: 1,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/casa loma pic2.jpg"
+    },
+    {
+      id: 2,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/mock.jpg"
+    },
+    {
+      id: 3,
+      title: "Card title",
+      body:
+        "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      img: "img/mock.jpg"
+    }
+  ];
+  localStorage.setItem("tourismThumb", JSON.stringify(data));
 };
 
 storeLogin = email => {
