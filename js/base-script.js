@@ -135,7 +135,10 @@ isLogged = () => {
   return r === null ? false : r.email;
 };
 
-logout = () => localStorage.removeItem("isLogged");
+logout = () => {
+  localStorage.removeItem("isLogged");
+  window.location.href = "index.html";
+};
 
 setTourismData = () => {
   const data = [
