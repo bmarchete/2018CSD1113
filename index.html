@@ -8,6 +8,8 @@
     <title>Page title</title>
 
     <link rel="stylesheet" href="css/style-base.css">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="new.css" />
 
 </head>
 
@@ -19,7 +21,148 @@
         <header id="header" class="mt-3 mb-3"></header>
         <nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light mb-4"></nav>
 
-        <!-- Here goes every content of the site -->
+   
+<div id="Divistion" class="division0" style='float:left'>
+<div id="secondDivistion" class="division1" style='float:left'>
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/aqua.png" alt="aqua" height="200" width="600">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/RIPLEY.jpg" alt="RIPLEY" height="200" width="600">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/original.jpg" alt="original" height="200" width="600">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4/ 10</div>
+  <img src="C:\Users\Randhawa\Desktop/Gooderham.jpg" alt="Gooderham" height="200" width="600">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/casa_loma.jpg" alt="casa_loma" height="200" width="600">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/beauty_of_nature.jpg" alt="beauty_of_nature" height="200" width="600">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/torontozoo.jpg" alt="torontozoo" height="200" width="600">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8/ 10</div>
+  <img src="C:\Users\Randhawa\Desktop/royal.jpg" alt="royal" height="200" width="600">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <img src="C:\Users\Randhawa\Desktop/bluff.jpg" alt="bluff" height="200" width="600">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10/ 10</div>
+  <img src="C:\Users\Randhawa\Desktop/House.png" alt="House" height="200" width="600">
+</p>
+</div>
+</div>
+<br>
+
+
+<div style="text-align:left">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+		
+		<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
+
+     <div id="Divistion" class="division0" style='float:right'>
+<div id="secondDivistion" class="division1" style='float:right'>
+
+
+  <p style="float:right; display:block;"> Great Toronto area in Ontario, is home to a dynamic mix of tourist attractions, <br>
+		  from museums and galleries to the world famous parks and, just off shore, Islands,<br> 
+		  which attract the attention of huge masses.The area also offers a vibrant Entertainment District, <br>
+		  featuring the latest musicals and other performing arts, and the historic Distillery District. <br>
+		  This leading tourism destination has an array of tourist spots ,which is very easy to navigate, <br>
+		  with many of the top attractions within walking distance of each other and a subway system to cover longer distance.        
+          </p>
+</div>
+</div><br><br><br><br>
+
+<div id="container">
+
+  <div id="leftThing">
+  <img src="C:\Users\Randhawa\Desktop/rogerspark.jpg" alt="aqua" height="200" width="430" /></a>
+       The Toronto Zoo is a living centre for education and science, committed to providing compelling guest experiences and inspiring 
+	   passion to protect wildlife and habitats. 
+  </div>
+
+  <div id="content">
+  <img src="C:\Users\Randhawa\Desktop/st-lawrence-market.jpg" alt="house" height="200" width="400" />
+ Rogers Centre, originally named SkyDome, is a multi-purpose stadium in Downtown Toronto, Ontario, Canada, situated just southwest of the CN Tower 
+ near the northern shore of Lake Ontario.
+  </div>
+
+  <div id="rightThing">
+  
+					<img src="C:\Users\Randhawa\Desktop/Zoo.png" alt="Zoo" height="200" width="430" id="arrow" />
+    The St. Lawrence Market South building is a major public market building in Toronto, Ontario, Canada. 
+
+  </div>
+
+</div>
+</div>							
 
 
         <footer class="alert alert-secondary">
