@@ -31,15 +31,15 @@ const tourismThumb = [
   },
   {
     id: 6,
-    title: "Ripley aquarium",
+    title: "Spadina Museum",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/spadina museum1.jpg"
   },
   {
     id: 7,
-    title: "Ripley aquarium",
+    title: "Toronto zoo",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/toronto_zoo.jpg"
   },
   {
     id: 8,
