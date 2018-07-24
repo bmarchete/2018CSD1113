@@ -6,10 +6,10 @@ const tourismThumb = [
     img: "img/casa_loma_1.jpg"
   },
   {
-    id: 2,https://github.com/bmarchete
+    id: 2,
     title: "Put your title here",
     body: `Put a short description right here`,
-    img: "img/RIPLEY.jpg"
+    img: "img/mock.jpg"
   }
   // keep copying the contents above and pasting here
 ];
