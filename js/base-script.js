@@ -110,7 +110,7 @@ setTourismData = () => {
       title: "Card title",
       body:
         "Some quick example text to build on the card title and make up the bulk of the card's content.",
-      img: "img/mock.jpg"
+      img: "img/casa loma pic2.jpg"
     },
     {
       id: 2,
