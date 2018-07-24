@@ -9,7 +9,7 @@ const tourismThumb = [
     id: 2,
     title: "Put your title here",
     body: `Put a short description right here`,
-    img: "img/CN TOWER.jpg"
+    img: "img/mock.jpg"
   }
   // keep copying the contents above and pasting here
 ];
