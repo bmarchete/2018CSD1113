@@ -2,25 +2,19 @@ const tourismThumb = [
   {
     id: 1,
     title: "Casa Loma",
-    body:
-      'Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada',
+    body: `Put a short description right here`,
     img: "img/casa_loma_1.jpg"
   },
   {
     id: 2,
-    title: "Card title",
-    body:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
-    img: "img/mock.jpg"
-  },
-  {
-    id: 3,
-    title: "Card title",
-    body:
-      "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    title: "Put your title here",
+    body: `Put a short description right here`,
     img: "img/mock.jpg"
   }
+  // keep copying the contents above and pasting here
 ];
+
+// plz, don't change anything here
 
 setTourismData = () => {
   const data = tourismThumb;

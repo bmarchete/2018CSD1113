@@ -9,12 +9,6 @@
 
     <link rel="stylesheet" href="css/style-base.css">
 
-    <style>
-        body {
-            background-color: #fafafa;
-        }
-    </style>
-
 </head>
 
 <body>
@@ -28,23 +22,7 @@
         <section class="row">
             <div class="col-2">
 
-                <ul class="list-group">
-                    <li class="list-group-item">
-                        Casa Loma
-                    </li>
-                    <li class="list-group-item">
-                        Cras justo odio
-                    </li>
-                    <li class="list-group-item">
-                        Cras justo odio
-                    </li>
-                    <li class="list-group-item">
-                        Cras justo odio
-                    </li>
-                    <li class="list-group-item">
-                        Cras justo odio
-                    </li>
-
+                <ul class="list-group" id="side-menu">
                 </ul>
 
             </div>
@@ -55,19 +33,8 @@
                     <div class="col">
                         <div class="card bg-light mb-3">
                             <div class="card-header bg-info text-light text-center">General Information</div>
-                            <div class="card-body">
-                                <h4 class="card-title">Title</h4>
-                                <p class="card-text">Lorem culpa fugiat occaecat consectetur consectetur eu. Dolore dolore esse quis ut culpa
-                                    elit deserunt dolore quis exercitation cillum. Adipisicing Lorem voluptate est occaecat
-                                    officia ut. Veniam irure laboris nostrud est voluptate. Nulla laborum do qui adipisicing
-                                    ex irure..</p>
+                            <div class="card-body" id="basic-content">
 
-                                <h4>Address</h4>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.08788124993!2d-79.39577548483344!3d43.66714207912075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34ba59169db9%3A0x3eba77bce0e0702!2sMuseum+Station!5e0!3m2!1sen!2sca!4v1531921788779"
-                                    width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-                                <h4>Cost</h4>
-                                <p>$99.99</p>
                             </div>
                         </div>
                     </div>
@@ -77,10 +44,7 @@
                     <div class="col">
                         <div class="card bg-light mb-3">
                             <div class="card-header bg-info text-light text-center">Galery of Photos</div>
-                            <div class="card-body">
-                                <img src="img/mock.jpg" alt="..." class="img-fluid mb-1" style="width: 200px;">
-                                <img src="img/mock.jpg" alt="..." class="img-fluid mb-1" style="width: 200px;">
-                                <img src="img/mock.jpg" alt="..." class="img-fluid mb-1" style="width: 200px;">
+                            <div class="card-body" id="tourist-images">
 
                             </div>
                         </div>
@@ -115,11 +79,35 @@
             </div>
         </section>
 
+        <footer class="alert alert-secondary">
+            <p>Website made for CSD 1113 - Web Technologies I - Lambton College - 2018</p>
+            <div id="nav" class="navbar-expand-lg ">
 
+                <ul class="navbar-nav ">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="tourist.html">Tourism</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact">Contact</a>
+                    </li>
+                </ul>
+
+            </div>
+        </footer>
 
     </div>
 
+
     <script src="js/base-script.js"></script>
+    <script src="js/tourismDetailsData.js"></script>
     <script src="js/comments.js"></script>
     <script>
         if (!isLogged()) {
@@ -133,6 +121,7 @@
             const comments = document.querySelector("#comments");
             const myParam = location.search.split('id=')[1]
 
+            fillPlace(myParam);
             showComment(myParam);
 
             comments.addEventListener("submit", () => {

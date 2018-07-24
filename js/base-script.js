@@ -2,7 +2,7 @@
 const headerLogged = email => {
   return `
     <div class="col">
-            <p class="text-right">Olá <strong>${email}</strong></p>
+            <p class="text-right">Hello <strong>${email}</strong></p>
     </div>
 
     <div class="col-auto">
@@ -51,7 +51,7 @@ const headerNotLogged = () => {
 const header = type => {
   const logo = `
     <div class="col-6">
-        <img src="img/logo-mock.png" alt="" style="width: 200px;">
+        <img src="img/logo.png" alt="" style="width: 200px;">
     </div>`;
 
   const header = `
@@ -75,7 +75,7 @@ const header = type => {
             <a class="nav-link" href="about.html">About</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="contact">Contact</a>
+            <a class="nav-link" href="contact.html">Contact</a>
         </li>
     </ul>
 
@@ -106,8 +106,8 @@ fillHeader = () => {
 
       if (l) {
         header(() => headerLogged(formLogin["email"].value));
-      }else{
-          alert.classList.remove('d-none');
+      } else {
+        alert.classList.remove("d-none");
       }
     });
   }
@@ -140,7 +140,7 @@ logout = () => {
   window.location.href = "index.html";
 };
 
-storeLogin = (email) =>{
-    const isLogged = { email};
-    localStorage.setItem("isLogged", JSON.stringify(isLogged));
-}
+storeLogin = email => {
+  const isLogged = { email };
+  localStorage.setItem("isLogged", JSON.stringify(isLogged));
+};
