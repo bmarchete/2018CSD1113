@@ -43,9 +43,9 @@ const tourismThumb = [
   },
   {
     id: 8,
-    title: "Ripley aquarium",
+    title: "Fort York",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/fortyork.jpg"
   },
   {
     id: 9,
