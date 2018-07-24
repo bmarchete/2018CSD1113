@@ -13,9 +13,9 @@ const tourismThumb = [
   },
   {
     id: 3,
-    title: "Ripley aquarium",
+    title: "Royal Ontario Museum",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/royal ontariomuseum.jpg"
   },
   {
     id: 4,
@@ -25,9 +25,9 @@ const tourismThumb = [
   },
   {
     id: 5,
-    title: "Ripley aquarium",
+    title: "CN Tower",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/cn-tower.jpg"
   },
   {
     id: 6,
