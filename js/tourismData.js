@@ -2,7 +2,7 @@ const tourismThumb = [
   {
     id: 1,
     title: "Casa Loma",
-    body: ``Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada `,
+    body: `Put a short description right here `,
     img: "img/casa_loma_1.jpg"
   },
   {
