@@ -7,9 +7,9 @@ const tourismThumb = [
   },
   {
     id: 2,
-    title: "Put your title here",
+    title: "Ripley aquarium",
     body: `Put a short description right here`,
-    img: "img/mock.jpg"
+    img: "img/RIPLEY.jpg"
   }
   // keep copying the contents above and pasting here
 ];
