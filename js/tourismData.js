@@ -26,7 +26,7 @@ const tourismThumb = [
   {
     id: 5,
     title: "CN Tower",
-    body: `The CN Tower is a 553.3 m-high (1,815.3 ft) concrete communications and observation tower located in Downtown Toronto, Ontario, Canada.Built on the former Railway Lands, it was completed in 1976. Its name "CN" originally referred to Canadian National, the railway company that built the tower. Following the railway's decision to divest non-core freight railway assets prior to the company's privatization in 1995, it transferred the tower to the Canada Lands Company, a federal Crown corporation responsible for real estate development.`,
+    body: `Toronto’s CN Tower is one of the Seven Wonders of the Modern World. It is a 553.33 meter-high observation tower that makes it the tallest freestanding structure in the Western Hemisphere. The name of this tower is an acronym for the Canadian National Railway as it was built by the state railway. This tower is struck by lightning around 75 times each year.`,
     img: "img/cn-tower.jpg"
   },
   {
@@ -44,7 +44,7 @@ const tourismThumb = [
   {
     id: 8,
     title: "Fort York",
-    body: `Fort York is a 43-acre national historic site located in the heart of downtown Toronto. Referred to as Toronto’s founding landscape, Fort York National Historic Site is also a Heritage Conservation District, a registered archaeological site, and home to Canada’s largest collection of original War of 1812 buildings.`,
+    body: `Fort York is a 43-acre national historic site located in the heart of downtown Toronto. Referred to as Toronto’s founding landscape, Fort York National Historic Site is also a Heritage Conservation District, a registered archaeological site, and home to Canada’s largest collection of original War of 1812 buildings.Fort York also reveals Toronto’s topographic history, industrial development and rail history`,
     img: "img/fortyork.jpg"
   },
   {
