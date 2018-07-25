@@ -1,27 +1,27 @@
 const tourismThumb = [
   {
     id: 1,
-    title: "Casa Loma",
+    title: "Goodheram Building",
     body: `Put a short description right here `,
-    img: "img/casa.jpg"
-  },
-  {
-    id: 2,
-    title: "Gooderham Building",
-    body: `Put a short description right here`,
     img: "img/Gooderham1.jpg"
   },
   {
-    id: 3,
+    id: 2,
     title: "Royal Ontario Museum",
     body: `Put a short description right here`,
     img: "img/royal ontariomuseum.jpg"
   },
   {
-    id: 4,
+    id: 3,
     title: "Ripley aquarium",
     body: `Put a short description right here`,
     img: "img/ripley2.jpg"
+  },
+  {
+    id: 4,
+    title: "Casa Loma",
+    body: `Put a short description right here`,
+    img: "img/casa_loma_1.jpg"
   },
   {
     id: 5,
@@ -31,15 +31,15 @@ const tourismThumb = [
   },
   {
     id: 6,
-    title: "Spadina Museum",
+    title: "Toronto Zoo",
     body: `Put a short description right here`,
-    img: "img/spadina museum1.jpg"
+    img: "img/toronto_zoo.jpg"
   },
   {
     id: 7,
-    title: "Toronto zoo",
+    title: "Spadina Museum",
     body: `Put a short description right here`,
-    img: "img/toronto_zoo.jpg"
+    img: "img/spadina museum1.jpg"
   },
   {
     id: 8,
