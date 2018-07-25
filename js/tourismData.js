@@ -14,43 +14,43 @@ const tourismThumb = [
   {
     id: 3,
     title: "Ripley aquarium",
-    body: `Put a short description right here`,
+    body: `Ripley’s aquarium ,Canada is a public aquarium in Toronto,Ontario,canada. The aquarium is one of three aquariums owned and operated byripley entertainment. It is located in downtown,toronto, just southeast of the CN tower. The aquarium has 5.7 million litres (1.5 million gallons) of marine and freshwater habitats from across the world. `,
     img: "img/ripley2.jpg"
   },
   {
     id: 4,
     title: "Casa Loma",
-    body: `Put a short description right here`,
+    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to a century-long history of romance, ambition, mystery and passion.`,
     img: "img/casa_loma_1.jpg"
   },
   {
     id: 5,
     title: "CN Tower",
-    body: `Put a short description right here`,
+    body: `The CN Tower is a 553.3 m-high (1,815.3 ft) concrete communications and observation tower located in Downtown Toronto, Ontario, Canada.Built on the former Railway Lands, it was completed in 1976. Its name "CN" originally referred to Canadian National, the railway company that built the tower. Following the railway's decision to divest non-core freight railway assets prior to the company's privatization in 1995, it transferred the tower to the Canada Lands Company, a federal Crown corporation responsible for real estate development.`,
     img: "img/cn-tower.jpg"
   },
   {
     id: 6,
     title: "Toronto Zoo",
-    body: `Put a short description right here`,
+    body: `The Toronto Zoo is a living centre for education and science, committed to provide compelling guest experiences and inspiring passion to protect wildlife and habitats. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. `,
     img: "img/toronto_zoo.jpg"
   },
   {
     id: 7,
     title: "Spadina Museum",
-    body: `Put a short description right here`,
+    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through the 1930s, including Victorian, Edwardian, Art Deco. `,
     img: "img/spadina museum1.jpg"
   },
   {
     id: 8,
     title: "Fort York",
-    body: `Put a short description right here`,
+    body: `Fort York is a 43-acre national historic site located in the heart of downtown Toronto. Referred to as Toronto’s founding landscape, Fort York National Historic Site is also a Heritage Conservation District, a registered archaeological site, and home to Canada’s largest collection of original War of 1812 buildings.`,
     img: "img/fortyork.jpg"
   },
   {
     id: 9,
     title: "Bluffers Beach",
-    body: `Put a short description right here`,
+    body: `Bluffer's Park was designed to improve public access to the base of the Scarborough Bluffs. It can be accessed by Brimley Road. The park features a sandy beach, picnic areas, walks, lookouts, a boat launch and visitors dockage.Originally owned by the Borough of Scarborough, the mainland at the base of the bluffs was transferred to the Metropolitan Toronto and Region Conservation Authority in May 1960 as part of the Waterfront Plan for Metro. `,
     img: "img/bluffer.jpg"
   }
   
