@@ -3,7 +3,7 @@ const tourismThumb = [
     id: 1,
     title: "Casa Loma",
     body: `Put a short description right here `,
-    img: "img/casa_loma_1.jpg"
+    img: "img/casa.jpg"
   },
   {
     id: 2,
