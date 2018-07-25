@@ -8,7 +8,7 @@ const tourismThumb = [
   {
     id: 2,
     title: "Royal Ontario Museum",
-    body: `Put a short description right here`,
+    body: `The Royal Ontario Museum (ROM, French: Musée royal de l'Ontario) is a museum of art, world culture and natural history in Toronto, Ontario, Canada. It is one of the largest museums in North America, and the largest in Canada. It attracts more than one million visitors every year, making the ROM the most visited museum in Canada.`,
     img: "img/royal ontariomuseum.jpg"
   },
   {
