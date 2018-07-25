@@ -49,9 +49,9 @@ const tourismThumb = [
   },
   {
     id: 9,
-    title: "Ripley aquarium",
+    title: "Bluffers Beach",
     body: `Put a short description right here`,
-    img: "img/ripley2.jpg"
+    img: "img/bluffer.jpg"
   }
   
   // keep copying the contents above and pasting here
