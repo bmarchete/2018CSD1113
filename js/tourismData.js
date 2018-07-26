@@ -38,7 +38,7 @@ const tourismThumb = [
   {
     id: 7,
     title: "Spadina Museum",
-    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through the 1930s, including Victorian, Art Deco. `,
+    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s. `,
     img: "img/spadina museum1.jpg"
   },
   {
@@ -50,7 +50,7 @@ const tourismThumb = [
   {
     id: 9,
     title: "Bluffers Beach",
-    body: `Bluffer's Park was designed to improve public access to the base of the Scarborough Bluffs. It can be accessed by Brimley Road. The park features a sandy beach, picnic areas, walks, lookouts, a boat launch and visitors dockage.Originally owned by the Borough of Scarborough, the mainland at the base of the bluffs was transferred to the Metropolitan Toronto and Region Conservation Authority in May 1960 as part of the Waterfront Plan for Metro. `,
+    body: `Bluffer's Park was designed to improve public access to the base of the Scarborough Bluffs. The park features a sandy beach, picnic areas, walks, lookouts, a boat launch and visitors dockage.Originally owned by the Borough of Scarborough, the mainland at the base of the bluffs was transferred to the Metropolitan Toronto and Region Conservation Authority in May 1960 as part of the Waterfront Plan for Metro. `,
     img: "img/bluffer.jpg"
   }
   
