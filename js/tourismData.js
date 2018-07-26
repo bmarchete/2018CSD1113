@@ -32,7 +32,7 @@ const tourismThumb = [
   {
     id: 6,
     title: "Toronto Zoo",
-    body: `The Toronto Zoo is a living centre for education and science, committed to provide compelling guest experiences and inspiring passion to protect wildlife and habitats. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. `,
+    body: `The Toronto Zoo is a living centre for education and science, committed to provide compelling guest experiences and inspiring passion to protect wildlife and habitats. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas,Australasia and the Canadian Domain. `,
     img: "img/toronto_zoo.jpg"
   },
   {
