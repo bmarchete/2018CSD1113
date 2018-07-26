@@ -38,7 +38,7 @@ const tourismThumb = [
   {
     id: 7,
     title: "Spadina Museum",
-    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through the 1930s, including Victorian, Edwardian, Art Deco. `,
+    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through the 1930s, including Victorian, Art Deco. `,
     img: "img/spadina museum1.jpg"
   },
   {
