@@ -51,7 +51,7 @@ const headerNotLogged = () => {
 const header = type => {
   const logo = `
     <div class="col-6">
-        <img src="img/logo.png" alt="" style="width: 200px;">
+        <img src="img/logo.png" alt="" style="width: 300px;">
     </div>`;
 
   const header = `
@@ -63,9 +63,9 @@ const header = type => {
 
   const nav = `
     <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
+        <li class="nav-item">
             <a class="nav-link" href="index.html">Home
-                <span class="sr-only">(current)</span>
+              
             </a>
         </li>
         <li class="nav-item">
