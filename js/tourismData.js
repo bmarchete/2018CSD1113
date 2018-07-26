@@ -20,7 +20,7 @@ const tourismThumb = [
   {
     id: 4,
     title: "Casa Loma",
-    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto,that is now historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to century-long history of romance, ambition, mystery and passion.`,
+    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto,Ontario,Canada,+that is now historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to century-long history of romance, ambition, mystery and passion.`,
     img: "img/casa_loma_1.jpg"
   },
   {
@@ -38,13 +38,13 @@ const tourismThumb = [
   {
     id: 7,
     title: "Spadina Museum",
-    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s. `,
+    body: `Spadina Museum: Historic House & Gardens, sometimes called Spadina House, is a historic mansion on Spadina Road in Toronto,that is now a museum operated by the City of Toronto's Economic Development & Culture division. The museum preserves the house much as it existed and developed historically. The art, decor and architecture of the house used to reflect the contemporary styles of the 1860s through 1930s. `,
     img: "img/spadina museum1.jpg"
   },
   {
     id: 8,
     title: "Fort York",
-    body: `Fort York is a 43-acre national historic site located in the heart of downtown Toronto. Referred to as Toronto’s founding landscape, Fort York National Historic Site is also a Heritage Conservation District, a registered archaeological site, and home to Canada’s largest collection of original War of 1812 buildings.Fort York also reveals Toronto’s topographic history, industrial development and rail history`,
+    body: `Fort York is a 43-acre national historic site located in the heart of downtown Toronto. Referred to as Toronto’s founding landscape, Fort York National Historic Site is also a Heritage Conservation District, a registered archaeological site, and home to Canada’s largest collection of original War of 1812 buildings.Fort York also reveals Toronto’s topographic history, industrial development and rail history.`,
     img: "img/fortyork.jpg"
   },
   {
