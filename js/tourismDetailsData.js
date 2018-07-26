@@ -1,7 +1,7 @@
 const menu = [
   {
     id: 1,
-    title: "First link"
+    title: "Gooderham Building"
   },
   {
     id: 2,
@@ -12,11 +12,9 @@ const menu = [
 const data = [
   {
     id: 1, // needs to match with touristData.js information
-    title: `Casa Loma`,
-    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to a century-long history of romance, ambition, mystery and passion. A popular tourist destination, Casa Loma stores a unique blend of historical memoirs, ghost stories, military secrets, architectural marvels and Hollywoodconnections for its inquisitive explorers to unravel.
-    The architect was E. J. Lennox,[1] who designed several other city landmarks. Casa Loma sits at an elevation of 140 metres (460 ft) above sea level.[2]
-   Due to its unique architectural character in Toronto, Casa Loma has been a popular filming location for movies and television. It is also a popular venue for wedding ceremonies,[3] and Casa Loma can be rented in the evenings after the museum closes to the public.
-   `,
+    title: `Gooderham Building`,
+    body: `The Gooderham Building is the focal point of one of Toronto's most iconic vistas: looking west down Front Street towards the building's prominent rounded corner, framed on the sides by the heritage commercial blocks along Front Street, and with the skyscrapers of the Financial District towering in the background. The CN Tower is also visible from certain angles behind Brookfield Place. This vista frequently appears in imagery of the city.The Gooderham Building is well-known both for its narrow wedge shape and for the mural on its back wall. The Flatiron Mural by renowned Canadian artist Derek Michael Besant uses a trompe l'oeil effect to not only make the wall appear to have more windows than it does, but to also give it a more mobile effect by having its edges 'fluttering' away where they are not 'tacked' down. It is a picture of the Perkins Building, which is located directly across the street.
+    The building has a Romanesque cornice and frieze above the arched windows on the 4th floor. The main entrance located on Wellington Street makes use of a French Gothic archway. The foundation is made of sandstone. The steep copper roof has eight gable dormers: four on the south facade and four on the north facade.With its linear pattern of fenestration distributed equally on all floors, it conveys a light feeling of a corporate office building. The Gooderham Building is set on a high foundation that reaches half a storey above the ground. These days, it is still being used as an office building. `,
     itinerary: `Some information about the itinerary here`,
     cost: `Information about costs here`,
     location: `Old Toronto, Toronto, ON`,
@@ -30,8 +28,8 @@ const data = [
 
   {
     id: 2, // needs to match with touristData.js information
-    title: `Put the title here`,
-    body: `Put the entire description right here`,
+    title: `Royal Ontario Museum`,
+    body: ``,
     itinerary: `Some information about the itinerary here`,
     cost: `Information about costs here`,
     location: `Put the address here`,
