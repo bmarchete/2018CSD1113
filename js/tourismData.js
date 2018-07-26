@@ -20,7 +20,7 @@ const tourismThumb = [
   {
     id: 4,
     title: "Casa Loma",
-    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to a century-long history of romance, ambition, mystery and passion.`,
+    body: `Casa Loma (Spanish for "Hill House") is a Gothic Revival style mansion and garden in midtown Toronto,that is now historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. This attractive palace has borne witness to century-long history of romance, ambition, mystery and passion.`,
     img: "img/casa_loma_1.jpg"
   },
   {
