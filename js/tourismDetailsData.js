@@ -61,7 +61,7 @@ const data = [
     itinerary: `Some information about the itinerary here`,
     cost: `Information about costs here`,
     location: `100 Queens Park, Toronto, ON M5S 2C6`,
-    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.991827252918!2d-79.37657278483417!3d43.64833837912144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb2e018655a3%3A0x4ebb69c2786fb5cd!2sGooderham+Building+(flatiron+building)!5e0!3m2!1sen!2sca!4v1532672610121" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0605903102387!2d-79.3969657848334!3d43.66770967912071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34baf3dae513%3A0xc98434e11ec5f592!2sRoyal+Ontario+Museum!5e0!3m2!1sen!2sca!4v1532674056078" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Put here what can we do there`,
     img: [
       "img/casa_loma_1.jpg",
