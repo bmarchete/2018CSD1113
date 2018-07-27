@@ -106,7 +106,7 @@ From the mid-1970s to the mid-1980s, the CN Tower was practically the only devel
     itinerary: `Some information about the itinerary here`,
     cost: `Information about costs here`,
     location: `301 Front St W, Toronto, ON M5V 2T6`,
-    map: `<iframe src="https://www.google.ca/maps/dir/''/cn+tower/@43.6425448,-79.4570966,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!2m2!1d-79.3870568!2d43.6425662" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    map: `<iframe src="https://www.google.ca/maps/embed?pb=cn+tower/@43.6425448,-79.4570966,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!2m2!1d-79.3870568!2d43.6425662" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Put here what can we do there`,
     img: [
       "img/casa_loma_1.jpg",
