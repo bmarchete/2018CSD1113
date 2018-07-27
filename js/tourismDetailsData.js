@@ -49,8 +49,12 @@ const data = [
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.991827252918!2d-79.37657278483417!3d43.64833837912144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb2e018655a3%3A0x4ebb69c2786fb5cd!2sGooderham+Building+(flatiron+building)!5e0!3m2!1sen!2sca!4v1532672610121" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: ``,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/gooderham1.jpg",
+      "img/gooderham2.jpg",
+      "img/gooderham3.jpg",
+      "img/gooderham4.jpg",
+      "img/gooderham5.jpg"
+      // put all images here separated by comma
     ]
   },
 
