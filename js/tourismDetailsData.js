@@ -51,12 +51,11 @@ const data = [
     img: [
       "img/gooderham2.jpg",
       "img/gooderham7.jpg",
-      "img/gooderham3.jpg",
       "img/gooderham4.jpg",
+      "img/gooderham3.jpg",
       "img/gooderham5.jpg",
       "img/gooderham1.jpg",
-      "img/gooderham6.jpg",
-      "img/gooderham8.jpg"
+      "img/gooderham6.jpg"
       
       // put all images here separated by comma
     ]
