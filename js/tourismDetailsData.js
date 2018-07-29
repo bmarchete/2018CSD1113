@@ -50,9 +50,8 @@ const data = [
     thingsToDo: ``,
     img: [
       "img/goodderhm1.jpg",
-      "img/gooderhm2(1).jpg",
+      "img/gooderhm2.jpg",
       "img/gooderhm3.jpg",
-      "img/gooderham3.jpg",
       "img/gooderham5.jpg",
       "img/gooderham1.jpg",
       "img/gooderham6.jpg"
