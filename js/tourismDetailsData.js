@@ -109,10 +109,16 @@ const data = [
     title: `Casa Loma`,
     body: `Spectacular  architecture and modern technology classified Casa Loma as one of the marvels of Toronto in the early 1900s. The castle exhibited the benefits of electric power, which was very new to North America at that time. It had an elevator, which was the first of its kind in a private home in North America, and the castle’s ovens were so big that each one could cook an entire ox! The mansion was fitted with a central vacuuming system and had its own telephone exchange with so many telephones that the castle’s operator handled more daily calls from the castle itself than operators from the entire city of Toronto. The furniture of the Oak Room of Casa Loma was designed by the same company that furnished the Titanic. Casa Loma also was equipped with several secret passages and stairwells, the most interesting of which was an 800-foot-long tunnel that connected the castle to the horse stables. The stables themselves were a stunning wonder, with herringbone tile floors, carved mahogany walls and cast iron panels.`,
     itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    cost: `Casa Loma entry tickets <br>
+           Adult(18-64): $32.49 <br>
+           Youth(14-17): $27.32 <br>
+           Senior(65+): $27.32 <br>
+           Child(4-13): $22.15`,
     location: `1 Austin Terrace, Toronto, ON M5R 1X8`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11541.795129226131!2d-79.41688202202201!3d43.680432584251534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33622b6bf9dd%3A0x589f556a98f282b2!2sCasa+Loma%2C+Toronto%2C+ON!5e0!3m2!1sen!2sca!4v1532397614934" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Put here what can we do there`,
+    thingsToDo: `Visitors can get a self guided audio tour which makes it easy to explore the houses and grounds. The audio tour of Casa Loma is beneficial as it provides the history about the city anf family who built this dwelling. <br>
+                 One should must experience the underground tunnels to stables and garage is lined with cool historical information. <br>
+                 The southern view from the terraces and castle rooftops are amazing.`,
     img: [
       "img/casa1.jpg",
       "img/casa2.jpg",
