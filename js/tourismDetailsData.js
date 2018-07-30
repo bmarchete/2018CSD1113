@@ -95,8 +95,10 @@ const data = [
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.2770938287726!2d-79.38815968483435!3d43.64240297912158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d5d5b6045b%3A0x8daf1a19298c213d!2sRipley&#39;s+Aquarium+of+Canada!5e0!3m2!1sen!2sca!4v1532672750009" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Learn about the ecosystems of Canada’s Great Lakes and surrounding seas at Canadian Waters.<br>Take a heart-pounding journey through Dangerous Lagoon.<br>Pop-up into the underwater viewing bubbles at the Discovery Centre.<br>Watch the daily dive show at Ray Bay.<br>Enjoy a mesmerizing light show from the dancing jellyfish at Planet Jellies.`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/ripley1.jpg",
+      "img/ripley2.jpg",
+      "img/ripley3.jpg",
+      "img/ripley4.jpg" // put all images here separated by comma
     ]
   },
   
