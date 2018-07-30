@@ -117,7 +117,7 @@ const data = [
       "img/casa1.jpg",
       "img/casa2.jpg",
       "img/casa3.jpg",
-      "img/casa4.jpg",// put all images here separated by comma
+      "img/casa4.jpg" // put all images here separated by comma
     ]
   },
   
