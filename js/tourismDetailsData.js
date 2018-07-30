@@ -77,8 +77,8 @@ const data = [
     centuries AD at Matthews Family Court of Chinese Sculpture.`,
     img: [
       "img/royal1.jpg",
-      "img/royal2.jpg"
-      "img/royal3.jpg"
+      "img/royal2.jpg",
+      "img/royal3.jpg",
       "img/royal4.jpg" // put all images here separated by comma
     ]
   },
