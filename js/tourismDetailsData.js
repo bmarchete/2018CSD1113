@@ -76,8 +76,10 @@ const data = [
     thingsToDo: `Travel around the world’s cultures through the galleries devoted to World Cultures.<br> Discover over 1,000 diverse artifacts providing a cultural context for Canada’s earliest societies and reveal the economic and social forces that influenced First Peoples art at Daphne Cockwell Gallery of Canada:First Peoples <br> See outstanding Chinese collection, ranked among the world’s best outside China that includes more than 2000 objects spanning 7,000 years of Chinese history, ranging from beautifully painted prehistoric ceramic jars to elaborate 18th-century furniture at Joey and Toby Tanenbaum Gallery of China <br>See large sculptures in stone, bronze, iron, ceramic, and wood spanning 2,000 years of Chinese sculptural art and the development of Judaism, Islam and Christianity in China from the 3rd to 19th
     centuries AD at Matthews Family Court of Chinese Sculpture.`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/royal1.jpg",
+      "img/royal2.jpg"
+      "img/royal3.jpg"
+      "img/royal4.jpg" // put all images here separated by comma
     ]
   },
    {
