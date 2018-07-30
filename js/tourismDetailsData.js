@@ -63,7 +63,7 @@ const data = [
     title: `Royal Ontario Museum`,
     body: `The Royal Ontario Museum was formally established on 16 April 1912, and was jointly governed by the Government of Ontario and the University of Toronto. Its first assets were transferred from the University and the provincial Department of Education, coming from its predecessor the Museum of Natural History and Fine Arts at the Toronto Normal School. On 19 March 1914, at 3:00 pm, the Duke of Connaught, also the Governor General of Canada, officially opened the Royal Ontario Museum to the public. With more than six million items and forty galleries, the museum's diverse collections of world culture and natural history contribute to its international reputation. The museum contains notable collections of dinosaurs, minerals and meteorites, Near Eastern and African art, Art of East Asia, European history, and Canadian history. It houses the world's largest collection of fossils from the Burgess Shalewith more than 150,000 specimens. The museum also contains an extensive collection of design and fine arts, including clothing, interior, and product design, especially Art Deco.`,
     itinerary: `Some information about the itinerary here`,
-    cost: `Adult - $20.00, "<br>"
+    cost: `Adult - $20.00, <br>
            Child(4-14) - $14.00 ,
            Senior(65+) - $17.00 ,
            Student (with valid student card )/Youth(15-19) - $15.50, 
