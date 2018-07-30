@@ -170,8 +170,10 @@ From the mid-1970s to the mid-1980s, the CN Tower was practically the only devel
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.517991880339!2d-79.41033588483297!3d43.67899347912045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b349de3dc0091%3A0x39fd00050df6b378!2sSpadina+Museum!5e0!3m2!1sen!2sca!4v1532672866859" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Put here what can we do there`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/spadina1.JPG",
+      "img/spadina2.jpg",
+      "img/spadina3.jpg",
+      "img/spadina4.jpg" // put all images here separated by comma
     ]
   },
   
