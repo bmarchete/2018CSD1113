@@ -87,10 +87,13 @@ const data = [
     title: `Ripley Aquarium`,
     body: `The aquarium building features a multi-faceted shell clad in large aluminum panels, with the roof of the main entrance that "gives the illusion of the earth’s crust peeling away to reveal a window into the aquatic world." There are also coloured surfaces that juxtapose reflective aluminum soffits. The building was designed with special shielding so that Sharks would not be disturbed by its electrical systems.The Ripley aquarium holds 5.7 million litres (1.5 million gallons) of water and shows marine and freshwater habitats from around the world. The aquarium is organized into ten galleries: Canadian Waters, Rainbow Reef, Dangerous Lagoon, Discovery Centre, The Gallery, Ray Bay, Swarm: Nature by Numbers, Planet Jellies, Life Support Systems and the Shoreline Gallery. It is home to more than 20,000 animals.`,
     itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    cost: `Adult - $29.98 <br>
+           Child(4-14) - $9.98 <br> 
+           Senior(65+) - $19.98 <br>
+           Infant(0-3) - Free <br>`,
     location: `288 Bremner Blvd, Toronto, ON M5V 3L9`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.2770938287726!2d-79.38815968483435!3d43.64240297912158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d5d5b6045b%3A0x8daf1a19298c213d!2sRipley&#39;s+Aquarium+of+Canada!5e0!3m2!1sen!2sca!4v1532672750009" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Put here what can we do there`,
+    thingsToDo: `Learn about the ecosystems of Canada’s Great Lakes and surrounding seas at Canadian Waters.<br>Take a heart-pounding journey through Dangerous Lagoon.<br>Pop-up into the underwater viewing bubbles at the Discovery Centre.<br>Watch the daily dive show at Ray Bay.<br>Enjoy a mesmerizing light show from the dancing jellyfish at Planet Jellies.`,
     img: [
       "img/casa_loma_1.jpg",
       "img/casa_loma_1.jpg" // put all images here separated by comma
