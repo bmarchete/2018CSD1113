@@ -71,7 +71,7 @@ const data = [
            Extra for special exhibitions.`,
     location: `100 Queens Park, Toronto, ON M5S 2C6`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0605903102387!2d-79.3969657848334!3d43.66770967912071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34baf3dae513%3A0xc98434e11ec5f592!2sRoyal+Ontario+Museum!5e0!3m2!1sen!2sca!4v1532674056078" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Travel around the world’s cultures through the galleries devoted to World Cultures.`,
+    thingsToDo: `Travel around the world’s cultures through the galleries devoted to World Cultures.<br> Discover over 1,000 diverse artifacts providing a cultural context for Canada’s earliest societies and reveal the economic and social forces that influenced First Peoples art at Daphne Cockwell Gallery of Canada:First Peoples`,
     img: [
       "img/casa_loma_1.jpg",
       "img/casa_loma_1.jpg" // put all images here separated by comma
