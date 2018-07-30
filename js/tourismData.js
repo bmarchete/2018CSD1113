@@ -15,7 +15,7 @@ const tourismThumb = [
     id: 3,
     title: "Ripley aquarium",
     body: `Ripley’s aquarium ,Canada is a public aquarium in Toronto,Ontario,canada. The aquarium is one of three aquariums owned and operated byripley entertainment. It is located in downtown,toronto, just southeast of the CN tower. The aquarium has 5.7 million litres (1.5 million gallons) of marine and freshwater habitats from across the world. `,
-    img: "img/ripley2.jpg"
+    img: "img/ripley.jpg"
   },
   {
     id: 4,
