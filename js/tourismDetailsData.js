@@ -114,8 +114,10 @@ const data = [
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11541.795129226131!2d-79.41688202202201!3d43.680432584251534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33622b6bf9dd%3A0x589f556a98f282b2!2sCasa+Loma%2C+Toronto%2C+ON!5e0!3m2!1sen!2sca!4v1532397614934" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Put here what can we do there`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/casa1.jpg",
+      "img/casa2.jpg",
+      "img/casa3.jpg",
+      "img/casa4.jpg",// put all images here separated by comma
     ]
   },
   
