@@ -70,7 +70,7 @@ const data = [
            Infant(0-3) - Free <br> 
            Extra for special exhibitions.<br>
            How to get tickets?<br>
-           <a style="color: #3366ff;" href="http://www.rom.on.ca/en/visit-us/buy-tickets" target="_blank" rel="nofollow">Online </a>`,
+           <a style="color: #3366ff;" href="http://www.rom.on.ca/en/visit-us/buy-tickets" target="_blank" rel="nofollow">Online </a> "&nbsp"/At the door`,
     location: `100 Queens Park, Toronto, ON M5S 2C6`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0605903102387!2d-79.3969657848334!3d43.66770967912071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34baf3dae513%3A0xc98434e11ec5f592!2sRoyal+Ontario+Museum!5e0!3m2!1sen!2sca!4v1532674056078" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Travel around the world’s cultures through the galleries devoted to World Cultures.<br> Discover over 1,000 diverse artifacts providing a cultural context for Canada’s earliest societies and reveal the economic and social forces that influenced First Peoples art at Daphne Cockwell Gallery of Canada:First Peoples <br> See outstanding Chinese collection, ranked among the world’s best outside China that includes more than 2000 objects spanning 7,000 years of Chinese history, ranging from beautifully painted prehistoric ceramic jars to elaborate 18th-century furniture at Joey and Toby Tanenbaum Gallery of China <br>See large sculptures in stone, bronze, iron, ceramic, and wood spanning 2,000 years of Chinese sculptural art and the development of Judaism, Islam and Christianity in China from the 3rd to 19th
