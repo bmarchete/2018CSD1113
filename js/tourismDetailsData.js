@@ -182,7 +182,7 @@ const data = [
     title: `Fort York`,
     body: ``,
     itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    cost: ` Adults-$6.00 <br> seniors / youth-$3.25 <br> children-$3.00. `,
     location: ` 250 Fort York Blvd, Toronto, ON M5V 3K9`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.515918393871!2d-79.40838128483452!3d43.637433379121845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b351f7ba3ff21%3A0xa74f569abc3fd61b!2sFort+York+National+Historic+Site!5e0!3m2!1sen!2sca!4v1532672910567" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Visitors can see demonstrations by Fort York including: Artillery Firing,Music,Squard Drill and Battle tactics performances.<br> Visitors can also enjoy watching numerous special ceremonies throughout the summer like Victoria day,Canada day and Simcoe day.`,
