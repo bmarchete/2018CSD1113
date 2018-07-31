@@ -43,14 +43,14 @@ const data = [
     title: `Gooderham Building`,
     body: `The Gooderham Building is the focal point of one of Toronto's most iconic vistas: looking west down Front Street towards the building's prominent rounded corner, framed on the sides by the heritage commercial blocks along Front Street, and with the skyscrapers of the Financial District towering in the background.  The CN Tower is also visible from certain angles behind Brookfield Place.This vista frequently appears in imagery of the city.The Gooderham Building is well-known both for its narrow wedge shape and for the mural on its back wall. The Flatiron Mural by renowned Canadian artist Derek Michael Besant uses a trompe l'oeil effect to not only make the wall appear to have more windows than it does, but to also give it a more mobile effect by having its edges 'fluttering' away where they are not 'tacked' down. It is a picture of the Perkins Building, which is located directly across the street.
     The building has a Romanesque cornice and frieze above the arched windows on the 4th floor. The main entrance located on Wellington Street makes use of a French Gothic archway. The foundation is made of sandstone. The steep copper roof has eight gable dormers: four on the south facade and four on the north facade.With its linear pattern of fenestration distributed equally on all floors, it conveys a light feeling of a corporate office building. The Gooderham Building is set on a high foundation that reaches half a storey above the ground. These days, it is still being used as an office building. `,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-Goderham Building
-St. Lawrence Market 
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br> 
+Starting point: Yonge & Dundas Square <br>
+CN Tower <br>
+Rogers Center <br>
+Goderham Building<br>
+St. Lawrence Market <br>
+Casa Loma <br>
+Royal Ontario Museum <br>
 Toronto Zoo`,
     cost: `This is an official building in which office rents will start at $64 gross per square foot, which includes operating costs, taxes and net rent.`,
     location: `49 Wellington St E, Toronto, ON M5E 1C9`,
@@ -72,13 +72,13 @@ Toronto Zoo`,
     id: 2, // needs to match with touristData.js information
     title: `Royal Ontario Museum`,
     body: `The Royal Ontario Museum was formally established on 16 April 1912, and was jointly governed by the Government of Ontario and the University of Toronto. Its first assets were transferred from the University and the provincial Department of Education, coming from its predecessor the Museum of Natural History and Fine Arts at the Toronto Normal School. On 19 March 1914, at 3:00 pm, the Duke of Connaught, also the Governor General of Canada, officially opened the Royal Ontario Museum to the public. With more than six million items and forty galleries, the museum's diverse collections of world culture and natural history contribute to its international reputation. The museum contains notable collections of dinosaurs, minerals and meteorites, Near Eastern and African art, Art of East Asia, European history, and Canadian history. It houses the world's largest collection of fossils from the Burgess Shalewith more than 150,000 specimens. The museum also contains an extensive collection of design and fine arts, including clothing, interior, and product design, especially Art Deco.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square<br>
+CN Tower<br> 
+Rogers Center<br> 
+St. Lawrence Market <br>
+Casa Loma<br> 
+Royal Ontario Museum <br>
 Toronto Zoo`,
     cost: `Adult - $20.00 <br>
            Child(4-14) - $14.00 <br> 
@@ -103,14 +103,14 @@ Toronto Zoo`,
     id: 3, // needs to match with touristData.js information
     title: `Ripley Aquarium`,
     body: `The aquarium building features a multi-faceted shell clad in large aluminum panels, with the roof of the main entrance that "gives the illusion of the earth’s crust peeling away to reveal a window into the aquatic world." There are also coloured surfaces that juxtapose reflective aluminum soffits. The building was designed with special shielding so that Sharks would not be disturbed by its electrical systems.The Ripley aquarium holds 5.7 million litres (1.5 million gallons) of water and shows marine and freshwater habitats from around the world. The aquarium is organized into ten galleries: Canadian Waters, Rainbow Reef, Dangerous Lagoon, Discovery Centre, The Gallery, Ray Bay, Swarm: Nature by Numbers, Planet Jellies, Life Support Systems and the Shoreline Gallery. It is home to more than 20,000 animals.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Ripley Aquarium
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br> 
+Starting point: Yonge & Dundas Square <br> 
+CN Tower<br>
+Rogers Center <br>
+St. Lawrence Market <br>
+Ripley Aquarium<br>
+Casa Loma <br>
+Royal Ontario Museum <br>
 Toronto Zoo`,
 
     cost: `Adult - $29.98 <br>
@@ -163,13 +163,13 @@ Toronto Zoo`,
     title: `CN Tower`,
     body: `The CN Tower opened to the public on June 26, 1976.The construction costs of approximately CA$63 million ($260 million in 2016 dollars) were repaid in fifteen years. Canadian National Railway sold the tower prior to taking the company private in 1995, when it decided to divest all operations not directly related to its core freight shipping businesses.
     From the mid-1970s to the mid-1980s, the CN Tower was practically the only development along Front Street West; it was still possible to see Lake Ontario from the foot of the CN Tower due to the expansive parking lots and lack of development in the area at the time. As the area around the tower was developed, particularly with the completion of the Metro Toronto Convention Centre in 1984 and the SkyDome in 1989 (renamed Rogers Centre in 2005), the former Railway Lands were redeveloped and the tower became the centre of a newly developing entertainment area. Access was greatly improved with the construction of the SkyWalk in 1989, which connected the tower and SkyDome to the nearby Union Station railway and subway station, and, in turn, to the city's PATH underground pedestrian system. By the mid-1990s, it was the centre of a thriving tourist district. The entire area continues to be an area of intense building, notably a boom in condominiumconstruction in the first two decades of the 21st century, as well as the 2013 opening of the Ripley's Aquarium by the base of the tower.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square <br>
+CN Tower<br> 
+Rogers Center <br>
+St. Lawrence Market <br>
+Casa Loma <br>
+Royal Ontario Museum<br> 
 Toronto Zoo`,
     cost: `Tower experience -: <br> Adult(13-64)-$38.00 <br> Senior(65+)-$ 34.00 <br> Child(4-12)-$28.00 <br> Edge Walk -: <br> For(13+)-$225.00 `,
     location: `301 Front St W, Toronto, ON M5V 2T6`,
@@ -187,13 +187,13 @@ Toronto Zoo`,
     id: 6, // needs to match with touristData.js information
     title: `Toronto Zoo`,
     body: `The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. Founded by Hugh A. Crothers, an industrialist who became the first Chairman of the Metro Toronto Zoological Society in 1966, the zoo opened on August 15, 1974 as the Metropolitan Toronto Zoo and is owned by the City of Toronto. The word "Metropolitan" was dropped from its name when the Municipality of Metropolitan Toronto was amalgamated to the current city in 1998. The zoo is located near the Rouge River, along the western border of Rouge Park in the city's east end district of Scarborough. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. Some animals are displayed indoors in tropical pavilions and outdoors in what would be their naturalistic environments, with viewing at many levels. It also has areas such as the Kids Zoo, Waterside Theatre, and Splash Island. It has one of the most taxonomically diverse collection of animals on display of any zoo; it is currently home to over 5,000 animals (including invertebrates and fish) representing over 500 species. The zoo is open every day of the year, except December 25.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square<br> 
+CN Tower <br>
+Rogers Center<br> 
+St. Lawrence Market <br>
+Casa Loma <br>
+Royal Ontario Museum <br>
 Toronto Zoo`,
     cost: `From C$23 <br> Low Price Guarantee`,
     location: ` 2000 Meadowvale Rd, Toronto, ON M1B 5K7`,
@@ -209,14 +209,14 @@ Toronto Zoo`,
     id: 7, // needs to match with touristData.js information
     title: `Spadina Museum`,
     body: `The first house constructed on the site was built in 1818 by Dr. William Warren Baldwin. He named his 200-acre (0.81 km2) property and estate Spadina, which derived from the Ojibwe word espadinong, which translates as "hill" or "sudden rise of land". Baldwin himself designed the two storey wood frame house. The house burnt down in 1835, and owing to the three mile (5 km) trek from the estate into York, he moved to a house on Front Street. He built a smaller country estate on the property in 1836.In 1866 the property was acquired by James Austin, founder of The Dominion Bank and Consumers Gas. By this time, parts of the property had been sold off, and what Austin purchased covered 80 acres (320,000 m2). In the 19th and early 20th century the area was the wealthiest in Toronto, with a number of Toronto's leading families having large estates. Austin subdivided and sold off the land west of Spadina Road in 1889, which amounted to 40 acres (160,000 m2). In 1892, James Austin turned over the house, and 20 acres (81,000 m2) of the property to his son, Albert William Austin. Albert Austin expanded the house in several renovations, including the addition of a third floor in 1912. He sold much of the property to the City of Toronto in 1913 for the construction of the St. Clair Reservoir. Albert Austin died in 1933.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Casa Loma
-Spadina Museum
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square <br>
+CN Tower <br>
+Rogers Center<br> 
+St. Lawrence Market <br>
+Casa Loma<br>
+Spadina Museum<br>
+Royal Ontario Museum<br> 
 Toronto Zoo`,
     cost: `Adult-$19.95 <br> Child(3-11)-$10.95 <br> Members-Free`,
     location: `285 Spadina Rd, Toronto, ON M5R 2V5`,
@@ -234,15 +234,15 @@ Toronto Zoo`,
     id: 8, // needs to match with touristData.js information
     title: `Fort York`,
     body: `Fort York National Historic Site (NHS) was established on May 25, 1923, with the bulk of its property around the old fort. The NHS includes a parcel of land east of Bathurst Street, as well as St. John's Square / Victoria Memorial Square to the northeast. It operates as a museum of the City of Toronto, offering visitors a number of services year round. Each April, the site commemorates the US invasion of April 27, 1813, with walking tours, artillery and musket demonstrations, period cooking, and groups portraying units involved in the battle. During the summer months, the site comes alive with the colour and pageantry of the Fort York Guard, and is complimented with tours by professional his-torical interpreters. In the off-season, the fort is provides educational programs for tour groups in-cluding school, scout, guide, and day care groups.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-St. Lawrence Market 
-Fort York
-Casa Loma 
-Spadina Museum
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions:<br> 
+Starting point: Yonge & Dundas Square <br>
+CN Tower <br>
+Rogers Center<br> 
+St. Lawrence Market<br> 
+Fort York<br>
+Casa Loma <br>
+Spadina Museum<br>
+Royal Ontario Museum<Br> 
 Toronto Zoo`,
     cost: ` Adults-$6.00 <br> seniors / youth-$3.25 <br> children-$3.00. `,
     location: ` 250 Fort York Blvd, Toronto, ON M5V 3K9`,
@@ -261,14 +261,14 @@ Toronto Zoo`,
     title: `Bluffers Beach`,
     body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
     Bluffers Beach is a Blue Flag beach. The Blue Flag is awarded to beaches and marinas that meet strict standards for water quality, environmental management and education, safety and services.`,
-    itinerary: `North/South Loop makes stops near the following attractions: 
-Starting point: Yonge & Dundas Square 
-CN Tower 
-Rogers Center 
-Bluffers Beach
-St. Lawrence Market 
-Casa Loma 
-Royal Ontario Museum 
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square <br>
+CN Tower <br>
+Rogers Center<br> 
+Bluffers Beach<br>
+St. Lawrence Market<br> 
+Casa Loma <br>
+Royal Ontario Museum<br> 
 Toronto Zoo`,
     cost: `Information about costs here`,
     location: `1 Brimley Road S, Scarborough, ON M1M 3W3`,
