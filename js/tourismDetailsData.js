@@ -163,7 +163,7 @@ const data = [
    {
     id: 7, // needs to match with touristData.js information
     title: `Spadina Museum`,
-    body: ``,
+    body: `The first house constructed on the site was built in 1818 by Dr. William Warren Baldwin. He named his 200-acre (0.81 km2) property and estate Spadina, which derived from the Ojibwe word espadinong, which translates as "hill" or "sudden rise of land". Baldwin himself designed the two storey wood frame house. The house burnt down in 1835, and owing to the three mile (5 km) trek from the estate into York, he moved to a house on Front Street. He built a smaller country estate on the property in 1836.In 1866 the property was acquired by James Austin, founder of The Dominion Bank and Consumers Gas. By this time, parts of the property had been sold off, and what Austin purchased covered 80 acres (320,000 m2). In the 19th and early 20th century the area was the wealthiest in Toronto, with a number of Toronto's leading families having large estates. Austin subdivided and sold off the land west of Spadina Road in 1889, which amounted to 40 acres (160,000 m2). In 1892, James Austin turned over the house, and 20 acres (81,000 m2) of the property to his son, Albert William Austin. Albert Austin expanded the house in several renovations, including the addition of a third floor in 1912. He sold much of the property to the City of Toronto in 1913 for the construction of the St. Clair Reservoir. Albert Austin died in 1933.`,
     itinerary: `Some information about the itinerary here`,
     cost: `Adult-$19.95 <br> Child(3-11)-$10.95 <br> Members-Free`,
     location: `285 Spadina Rd, Toronto, ON M5R 2V5`,
@@ -180,7 +180,7 @@ const data = [
    {
     id: 8, // needs to match with touristData.js information
     title: `Fort York`,
-    body: ``,
+    body: `Fort York National Historic Site (NHS) was established on May 25, 1923, with the bulk of its property around the old fort. The NHS includes a parcel of land east of Bathurst Street, as well as St. John's Square / Victoria Memorial Square to the northeast. It operates as a museum of the City of Toronto, offering visitors a number of services year round. Each April, the site commemorates the US invasion of April 27, 1813, with walking tours, artillery and musket demonstrations, period cooking, and groups portraying units involved in the battle. During the summer months, the site comes alive with the colour and pageantry of the Fort York Guard, and is complimented with tours by professional his-torical interpreters. In the off-season, the fort is provides educational programs for tour groups in-cluding school, scout, guide, and day care groups.`,
     itinerary: `Some information about the itinerary here`,
     cost: ` Adults-$6.00 <br> seniors / youth-$3.25 <br> children-$3.00. `,
     location: ` 250 Fort York Blvd, Toronto, ON M5V 3K9`,
