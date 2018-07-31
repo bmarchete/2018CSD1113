@@ -88,7 +88,15 @@ const data = [
     id: 3, // needs to match with touristData.js information
     title: `Ripley Aquarium`,
     body: `The aquarium building features a multi-faceted shell clad in large aluminum panels, with the roof of the main entrance that "gives the illusion of the earth’s crust peeling away to reveal a window into the aquatic world." There are also coloured surfaces that juxtapose reflective aluminum soffits. The building was designed with special shielding so that Sharks would not be disturbed by its electrical systems.The Ripley aquarium holds 5.7 million litres (1.5 million gallons) of water and shows marine and freshwater habitats from around the world. The aquarium is organized into ten galleries: Canadian Waters, Rainbow Reef, Dangerous Lagoon, Discovery Centre, The Gallery, Ray Bay, Swarm: Nature by Numbers, Planet Jellies, Life Support Systems and the Shoreline Gallery. It is home to more than 20,000 animals.`,
-    itinerary: `Some information about the itinerary here`,
+    itinerary: '
+    <p class="card-text">North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square  <br>
+CN Tower  <br>
+Ripley aquarium <br>
+St. Lawrence Market <br>
+Casa Loma <br>
+Royal Ontario Museum <br>
+Toronto Zoo</p>`,
     cost: `Adult - $29.98 <br>
            Child(4-14) - $9.98 <br> 
            Senior(65+) - $19.98 <br>
