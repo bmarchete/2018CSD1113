@@ -131,12 +131,12 @@ const data = [
     id: 5, // needs to match with touristData.js information
     title: `CN Tower`,
     body: `The CN Tower opened to the public on June 26, 1976.The construction costs of approximately CA$63 million ($260 million in 2016 dollars) were repaid in fifteen years. Canadian National Railway sold the tower prior to taking the company private in 1995, when it decided to divest all operations not directly related to its core freight shipping businesses.
-From the mid-1970s to the mid-1980s, the CN Tower was practically the only development along Front Street West; it was still possible to see Lake Ontario from the foot of the CN Tower due to the expansive parking lots and lack of development in the area at the time. As the area around the tower was developed, particularly with the completion of the Metro Toronto Convention Centre in 1984 and the SkyDome in 1989 (renamed Rogers Centre in 2005), the former Railway Lands were redeveloped and the tower became the centre of a newly developing entertainment area. Access was greatly improved with the construction of the SkyWalk in 1989, which connected the tower and SkyDome to the nearby Union Station railway and subway station, and, in turn, to the city's PATH underground pedestrian system. By the mid-1990s, it was the centre of a thriving tourist district. The entire area continues to be an area of intense building, notably a boom in condominiumconstruction in the first two decades of the 21st century, as well as the 2013 opening of the Ripley's Aquarium by the base of the tower.`,
+    From the mid-1970s to the mid-1980s, the CN Tower was practically the only development along Front Street West; it was still possible to see Lake Ontario from the foot of the CN Tower due to the expansive parking lots and lack of development in the area at the time. As the area around the tower was developed, particularly with the completion of the Metro Toronto Convention Centre in 1984 and the SkyDome in 1989 (renamed Rogers Centre in 2005), the former Railway Lands were redeveloped and the tower became the centre of a newly developing entertainment area. Access was greatly improved with the construction of the SkyWalk in 1989, which connected the tower and SkyDome to the nearby Union Station railway and subway station, and, in turn, to the city's PATH underground pedestrian system. By the mid-1990s, it was the centre of a thriving tourist district. The entire area continues to be an area of intense building, notably a boom in condominiumconstruction in the first two decades of the 21st century, as well as the 2013 opening of the Ripley's Aquarium by the base of the tower.`,
     itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    cost: `Tower experience -: <br> Adult(13-64)-$38.00 <br> Senior(65+)-$ 34.00 <br> Child(4-12)-$28.00 <br> Edge Walk -: <br> For(13+)-$225.00 `,
     location: `301 Front St W, Toronto, ON M5V 2T6`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.2690639741763!2d-79.38924548517058!3d43.642570061137214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d68bf33a9b%3A0x15edd8c4de1c7581!2sCN+Tower!5e0!3m2!1sen!2sca!4v1532671827813" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Put here what can we do there`,
+    thingsToDo: `The edge walk experience includes a keepsake video,printed photos,certificate of achievement and a ticket to reenter the CN tower.<br> Tower experience includes access to lookout,glass Floor and skypod levels,information displays and more.`,
     img: [
       "img/cn1.jpg",
       "img/cn2.jpg",
@@ -165,10 +165,10 @@ From the mid-1970s to the mid-1980s, the CN Tower was practically the only devel
     title: `Spadina Museum`,
     body: ``,
     itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    cost: `Adult-$19.95 <br> Child(3-11)-$10.95 <br> Members-Free`,
     location: `285 Spadina Rd, Toronto, ON M5R 2V5`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.517991880339!2d-79.41033588483297!3d43.67899347912045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b349de3dc0091%3A0x39fd00050df6b378!2sSpadina+Museum!5e0!3m2!1sen!2sca!4v1532672866859" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Put here what can we do there`,
+    thingsToDo: `One can enjoy the beauty of nature as spadina has charms-Orchards,garden that fascinates the visitors.<br> Expert explain the artifacts ,furnishings and historical items in an engaging manner.<br> The tour begins with brief explanation of family Austin who were the owners.`,
     img: [
       "img/spadina1.JPG",
       "img/spadina2.jpg",
@@ -185,10 +185,12 @@ From the mid-1970s to the mid-1980s, the CN Tower was practically the only devel
     cost: `Information about costs here`,
     location: ` 250 Fort York Blvd, Toronto, ON M5V 3K9`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.515918393871!2d-79.40838128483452!3d43.637433379121845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b351f7ba3ff21%3A0xa74f569abc3fd61b!2sFort+York+National+Historic+Site!5e0!3m2!1sen!2sca!4v1532672910567" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Put here what can we do there`,
+    thingsToDo: `Visitors can see demonstrations by Fort York including: Artillery Firing,Music,Squard Drill and Battle tactics performances.<br> Visitors can also enjoy watching numerous special ceremonies throughout the summer like Victoria day,Canada day and Simcoe day.`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/fort1.jpg",
+      "img/fort2.jpg",
+      "img/fort3.jpg",
+      "img/fort4.jpg"// put all images here separated by comma
     ]
   },
   
