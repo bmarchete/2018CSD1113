@@ -133,12 +133,12 @@ Toronto Zoo`,
     title: `Casa Loma`,
     body: `Spectacular  architecture and modern technology classified Casa Loma as one of the marvels of Toronto in the early 1900s. The castle exhibited the benefits of electric power, which was very new to North America at that time. It had an elevator, which was the first of its kind in a private home in North America, and the castle’s ovens were so big that each one could cook an entire ox! The mansion was fitted with a central vacuuming system and had its own telephone exchange with so many telephones that the castle’s operator handled more daily calls from the castle itself than operators from the entire city of Toronto. The furniture of the Oak Room of Casa Loma was designed by the same company that furnished the Titanic. Casa Loma also was equipped with several secret passages and stairwells, the most interesting of which was an 800-foot-long tunnel that connected the castle to the horse stables. The stables themselves were a stunning wonder, with herringbone tile floors, carved mahogany walls and cast iron panels.`,
     itinerary: `North/South Loop makes stops near the following attractions: <br>
-Starting point: Yonge & Dundas Square <bR>
+Starting point: Yonge & Dundas Square <br>
 CN Tower <br>
-Rogers Center<br> 
-St. Lawrence Market<br> 
+Rogers Center <br> 
+St. Lawrence Market <br> 
 Casa Loma <br>
-Royal Ontario Museum<br> 
+Royal Ontario Museum <br> 
 Toronto Zoo`,
     cost: `Casa Loma entry tickets <br>
            Adult(18-64): $32.49 <br>
