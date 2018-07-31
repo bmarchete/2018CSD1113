@@ -197,7 +197,8 @@ const data = [
    {
     id: 9, // needs to match with touristData.js information
     title: `Bluffers Beach`,
-    body: ``,
+    body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
+    Bluffers Beach is a Blue Flag beach. The Blue Flag is awarded to beaches and marinas that meet strict standards for water quality, environmental management and education, safety and services.`,
     itinerary: `Some information about the itinerary here`,
     cost: `Information about costs here`,
     location: `1 Brimley Road S, Scarborough, ON M1M 3W3`,
