@@ -148,12 +148,12 @@ const data = [
    {
     id: 6, // needs to match with touristData.js information
     title: `Toronto Zoo`,
-    body: ``,
-    itinerary: `Some information about the itinerary here`,
-    cost: `Information about costs here`,
+    body: `The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. Founded by Hugh A. Crothers, an industrialist who became the first Chairman of the Metro Toronto Zoological Society in 1966, the zoo opened on August 15, 1974 as the Metropolitan Toronto Zoo and is owned by the City of Toronto. The word "Metropolitan" was dropped from its name when the Municipality of Metropolitan Toronto was amalgamated to the current city in 1998. The zoo is located near the Rouge River, along the western border of Rouge Park in the city's east end district of Scarborough. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. Some animals are displayed indoors in tropical pavilions and outdoors in what would be their naturalistic environments, with viewing at many levels. It also has areas such as the Kids Zoo, Waterside Theatre, and Splash Island. It has one of the most taxonomically diverse collection of animals on display of any zoo; it is currently home to over 5,000 animals (including invertebrates and fish) representing over 500 species. The zoo is open every day of the year, except December 25.`,
+    itinerary: ``,
+    cost: `From C$23 <br> Low Price Guarantee`,
     location: ` 2000 Meadowvale Rd, Toronto, ON M1B 5K7`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.8389932725036!2d-79.18807908482772!3d43.81769897911591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d9f1ad96dacd%3A0x9e197a60028bb5d8!2sToronto+Zoo!5e0!3m2!1sen!2sca!4v1532672818051" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: ``,
+    thingsToDo: `Take a walk through Indo-Malaya, home to tigers, orangutans, clouded leopards, greater one-horned rhinos and more! <br>Visit the African Rainforest Pavilion to see one of the largest reptiles in the world.<br>Explore the African Savanna, home to rhinos, hippos, giraffes, white lions and more! <br> Kids Zoo: learn, laugh and play with the little one. <br> Splash Island: our 2 acre splash pad, perfect for a cool down on hot summer days <br> Waterside Theatre: daily animal shows, free with Zoo admission.`,
     img: [
       "img/casa_loma_1.jpg",
       "img/casa_loma_1.jpg" // put all images here separated by comma
