@@ -63,7 +63,7 @@ Toronto Zoo`,
       "img/gooderham2.jpg",
       "img/gooderham3.jpg",
       "img/gooderham4.jpg"
-      
+
       // put all images here separated by comma
     ]
   },
@@ -99,7 +99,7 @@ Toronto Zoo`,
       "img/royal4.jpg" // put all images here separated by comma
     ]
   },
-   {
+  {
     id: 3, // needs to match with touristData.js information
     title: `Ripley Aquarium`,
     body: `The aquarium building features a multi-faceted shell clad in large aluminum panels, with the roof of the main entrance that "gives the illusion of the earth’s crust peeling away to reveal a window into the aquatic world." There are also coloured surfaces that juxtapose reflective aluminum soffits. The building was designed with special shielding so that Sharks would not be disturbed by its electrical systems.The Ripley aquarium holds 5.7 million litres (1.5 million gallons) of water and shows marine and freshwater habitats from around the world. The aquarium is organized into ten galleries: Canadian Waters, Rainbow Reef, Dangerous Lagoon, Discovery Centre, The Gallery, Ray Bay, Swarm: Nature by Numbers, Planet Jellies, Life Support Systems and the Shoreline Gallery. It is home to more than 20,000 animals.`,
@@ -127,8 +127,8 @@ Toronto Zoo`,
       "img/ripley4.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
     id: 4, // needs to match with touristData.js information
     title: `Casa Loma`,
     body: `Spectacular  architecture and modern technology classified Casa Loma as one of the marvels of Toronto in the early 1900s. The castle exhibited the benefits of electric power, which was very new to North America at that time. It had an elevator, which was the first of its kind in a private home in North America, and the castle’s ovens were so big that each one could cook an entire ox! The mansion was fitted with a central vacuuming system and had its own telephone exchange with so many telephones that the castle’s operator handled more daily calls from the castle itself than operators from the entire city of Toronto. The furniture of the Oak Room of Casa Loma was designed by the same company that furnished the Titanic. Casa Loma also was equipped with several secret passages and stairwells, the most interesting of which was an 800-foot-long tunnel that connected the castle to the horse stables. The stables themselves were a stunning wonder, with herringbone tile floors, carved mahogany walls and cast iron panels.`,
@@ -157,8 +157,8 @@ Toronto Zoo`,
       "img/casa4.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
     id: 5, // needs to match with touristData.js information
     title: `CN Tower`,
     body: `The CN Tower opened to the public on June 26, 1976.The construction costs of approximately CA$63 million ($260 million in 2016 dollars) were repaid in fifteen years. Canadian National Railway sold the tower prior to taking the company private in 1995, when it decided to divest all operations not directly related to its core freight shipping businesses.
@@ -182,8 +182,8 @@ Toronto Zoo`,
       "img/cn4.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
     id: 6, // needs to match with touristData.js information
     title: `Toronto Zoo`,
     body: `The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. Founded by Hugh A. Crothers, an industrialist who became the first Chairman of the Metro Toronto Zoological Society in 1966, the zoo opened on August 15, 1974 as the Metropolitan Toronto Zoo and is owned by the City of Toronto. The word "Metropolitan" was dropped from its name when the Municipality of Metropolitan Toronto was amalgamated to the current city in 1998. The zoo is located near the Rouge River, along the western border of Rouge Park in the city's east end district of Scarborough. Encompassing 287 hectares (710 acres), the Toronto Zoo is the largest zoo in Canada. It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. Some animals are displayed indoors in tropical pavilions and outdoors in what would be their naturalistic environments, with viewing at many levels. It also has areas such as the Kids Zoo, Waterside Theatre, and Splash Island. It has one of the most taxonomically diverse collection of animals on display of any zoo; it is currently home to over 5,000 animals (including invertebrates and fish) representing over 500 species. The zoo is open every day of the year, except December 25.`,
@@ -205,8 +205,8 @@ Toronto Zoo`,
       "img/zoo5.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
     id: 7, // needs to match with touristData.js information
     title: `Spadina Museum`,
     body: `The first house constructed on the site was built in 1818 by Dr. William Warren Baldwin. He named his 200-acre (0.81 km2) property and estate Spadina, which derived from the Ojibwe word espadinong, which translates as "hill" or "sudden rise of land". Baldwin himself designed the two storey wood frame house. The house burnt down in 1835, and owing to the three mile (5 km) trek from the estate into York, he moved to a house on Front Street. He built a smaller country estate on the property in 1836.In 1866 the property was acquired by James Austin, founder of The Dominion Bank and Consumers Gas. By this time, parts of the property had been sold off, and what Austin purchased covered 80 acres (320,000 m2). In the 19th and early 20th century the area was the wealthiest in Toronto, with a number of Toronto's leading families having large estates. Austin subdivided and sold off the land west of Spadina Road in 1889, which amounted to 40 acres (160,000 m2). In 1892, James Austin turned over the house, and 20 acres (81,000 m2) of the property to his son, Albert William Austin. Albert Austin expanded the house in several renovations, including the addition of a third floor in 1912. He sold much of the property to the City of Toronto in 1913 for the construction of the St. Clair Reservoir. Albert Austin died in 1933.`,
@@ -230,8 +230,8 @@ Toronto Zoo`,
       "img/spadina4.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
     id: 8, // needs to match with touristData.js information
     title: `Fort York`,
     body: `Fort York National Historic Site (NHS) was established on May 25, 1923, with the bulk of its property around the old fort. The NHS includes a parcel of land east of Bathurst Street, as well as St. John's Square / Victoria Memorial Square to the northeast. It operates as a museum of the City of Toronto, offering visitors a number of services year round. Each April, the site commemorates the US invasion of April 27, 1813, with walking tours, artillery and musket demonstrations, period cooking, and groups portraying units involved in the battle. During the summer months, the site comes alive with the colour and pageantry of the Fort York Guard, and is complimented with tours by professional his-torical interpreters. In the off-season, the fort is provides educational programs for tour groups in-cluding school, scout, guide, and day care groups.`,
@@ -253,11 +253,37 @@ Toronto Zoo`,
       "img/fort1.jpg",
       "img/fort2.jpg",
       "img/fort3.jpg",
-      "img/fort4.jpg"// put all images here separated by comma
+      "img/fort4.jpg" // put all images here separated by comma
     ]
   },
-  
-   {
+
+  {
+    id: 10, // needs to match with touristData.js information
+    title: `Toronto Eaton Centre`,
+    body: `The Toronto Eaton Centre attracts the most visitors of any of Toronto's tourist attractions.It is North America's busiest shopping mall, due to extensive transit access, its downtown location and tourist traffic. With 48,969,858 visitors in 2015 alone, the centre sees more annual visitors than either of the two busiest malls in the United States (Mall of America and Ala Moana Center), or Central Park in New York City. The number of visitors to the Toronto Eaton Centre in 2015 exceeds the total 2015 passenger counts at Toronto Pearson International Airport, Canada's largest and busiest airport.The main portion of the Toronto Eaton Centre complex is bounded by Yonge Street on the east, Queen Street West on the south, Dundas Street West on the north, and to the west by James Street and Trinity Square. The flagship location of the Hudson's Bay department store chain, which has been part of the complex since Cadillac Fairview's purchase of the building in 2014,is connected to the rest of the complex by a skywalk over Queen Street West, and itself is bounded by Yonge Street to the east, Queen Street West to the north, Richmond Street West to the south, and Bay Street to the west. The main retail mall in the centre is organized around a long arcade, running parallel to Yonge Street.`,
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+    Starting point: Yonge & Dundas Square <br>
+    CN Tower <br>
+    Rogers Center <br>
+    St. Lawrence Market <br>
+    Casa Loma <br>
+    Royal Ontario Museum <br>
+    Toronto Zoo</p>`,
+    cost: `<p>Parking Prices <br>Mon-Fri - All day<br>20 Mins-$3.50,1 Hour-$10.50<br>Daytime-$18.00 (Mon-Fri In after 9am Out by 12am)<br>Overnight-$15.00 (Mon-Fri In after 12am Out by 5am)<br>Sat - All day<br>3 Hours-$10.00,6 Hours-$15.00,12 Hours-$20.00<br>Overnight-$15.00 (In after 12am Out by 5am)<br>Sun - All day
+    </p>`,
+    location: `220 Yonge St, Toronto ON M5B 2H1`,
+    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.69862702102!2d-79.38288808483388!3d43.65443817912121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34cb510746bd%3A0x8b89147b8cbbc837!2sCF+Toronto+Eaton+Centre!5e0!3m2!1sen!2sca!4v1533222569811" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    thingsToDo: `<p class="card-text">fun to do shopping<br>
+    The Elgin & Winter Garden Theatre Centre<br>
+          Old City Hall</p>`,
+    img: [
+      "img/images.jpg",
+      "img/Eaton3.jpg",
+      "img/Eaton4.jpeg",
+      "img/Eaton5.jpg" // put all images here separated by comma
+    ]
+  },
+  {
     id: 9, // needs to match with touristData.js information
     title: `Bluffers Beach`,
     body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
@@ -281,6 +307,32 @@ Toronto Zoo`,
       "img/beach3.jpg",
       "img/beach4.jpg" // put all images here separated by comma
     ]
+  },
+  {
+    id: 11, // needs to match with touristData.js information
+    title: `Rogers Centre`,
+    body: `Rogers Centre, originally named SkyDome, is a multi-purpose stadium in Downtown Toronto, Ontario, Canada, situated just southwest of the CN Tower near the northern shore of Lake Ontario. Opened in 1989 on the former Railway Lands, it is home to the Toronto Blue Jays of Major League Baseball (MLB). Previously, the stadium was home to the Toronto Argonauts of the Canadian Football League (CFL) and the Toronto Raptors of the National Basketball Association (NBA). The Buffalo Bills of the National Football League (NFL) played an annual game at the stadium as part of the Bills Toronto Series from 2008 to 2013. While it is primarily a sports venue, it also hosts other large events such as conventions, trade fairs, concerts, travelling carnivals, and monster truck shows.
+    The stadium was renamed "Rogers Centre" following the purchase of the stadium by Rogers Communications, which also owned the Toronto Blue Jays, in 2005. The venue was noted for being the first stadium to have a fully retractable motorized roof, as well as for the 348-room hotel attached to it, with 70 rooms overlooking the field.It is also the last North American major-league stadium built to accommodate both football and baseball. The stadium served as the site of both the opening and closing ceremonies of the 2015 Pan American Games.During the ceremonies, the site was referred to as the "Pan Am Dome" (officially as the "Pan Am Ceremonies Venue") instead of its official name; Rogers did not have sponsorship rights to the games. </p>
+        `,
+    itinerary: `<p class="card-text">North/South Loop makes stops near the following attractions: <br>
+    Starting point: Yonge & Dundas Square <br>
+    CN Tower <br>
+    Rogers Center <br>
+    St. Lawrence Market <br>
+    Casa Loma <br>
+    Royal Ontario Museum <br>
+    Toronto Zoo</p>`,
+    cost: `<p class="card-text" style="bold">From C$258<br>
+    Low Price Guarantee</p>`,
+    location: `<p class="card-text">92-95 Front St E, Toronto ON M5E 1C3 </p>`,
+    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.323480241613!2d-79.39154188450263!3d43.641437779121645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d7b66a4a51%3A0xe210b2f6fe0b1405!2sRogers+Centre!5e0!3m2!1sen!2sca!4v1532890073364" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    thingsToDo: ` <p class="card-text">14-minute helicopter tour over Toronto<br>
+    Enjoy breathtaking views of downtown Toronto, including the CN Tower<br>
+    Admire High Park, Humber Bay and the Lake Ontario waterfront from above<br>
+    Fly over Casa Loma and Evergreen Brick Works<br>
+    Souvenir photo included<br>
+    Choose from several tour times to suit your schedule</p>`,
+    img: ["img/rogerss1.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg"]
   }
 
   // keep copying the contents above and pasting here

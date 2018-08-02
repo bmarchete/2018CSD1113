@@ -51,7 +51,7 @@ const headerNotLogged = () => {
 const header = type => {
   const logo = `
     <div class="col-6">
-        <img src="img/logo.png" alt="" style="width: 300px;">
+        <a href="index.html"><img src="img/logo.png" alt="" style="width: 300px;"></a>
     </div>`;
 
   const header = `
