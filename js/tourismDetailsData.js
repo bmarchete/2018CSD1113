@@ -200,8 +200,9 @@ Toronto Zoo`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.8389932725036!2d-79.18807908482772!3d43.81769897911591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d9f1ad96dacd%3A0x9e197a60028bb5d8!2sToronto+Zoo!5e0!3m2!1sen!2sca!4v1532672818051" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Take a walk through Indo-Malaya, home to tigers, orangutans, clouded leopards, greater one-horned rhinos and more! <br>Visit the African Rainforest Pavilion to see one of the largest reptiles in the world.<br>Explore the African Savanna, home to rhinos, hippos, giraffes, white lions and more! <br> Kids Zoo: learn, laugh and play with the little one. <br> Splash Island: our 2 acre splash pad, perfect for a cool down on hot summer days <br> Waterside Theatre: daily animal shows, free with Zoo admission.`,
     img: [
-      "img/casa_loma_1.jpg",
-      "img/casa_loma_1.jpg" // put all images here separated by comma
+      "img/zoo2.jpg",
+      "img/zoo4.jpg",
+      "img/zoo5.jpg" // put all images here separated by comma
     ]
   },
   
