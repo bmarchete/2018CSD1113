@@ -202,7 +202,8 @@ Toronto Zoo`,
     img: [
       "img/zoo2.jpg",
       "img/zoo4.jpg",
-      "img/zoo5.jpg" // put all images here separated by comma
+      "img/zoo5.jpg",
+      "img/zoo3.jpg" // put all images here separated by comma
     ]
   },
 
@@ -381,7 +382,7 @@ fillPlace = id => {
   const images = dataEl.img
     .map(
       i =>
-        `<img src="${i}" alt="image" class="img-fluid mb-1 mr-2" style="width: 200px;">`
+        `<a href="${i}" target="_blank"><img src="${i}" alt="image" class="img-fluid mb-1 mr-2" style="width: 200px;"></a>`
     )
     .join("");
 
