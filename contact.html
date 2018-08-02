@@ -26,7 +26,13 @@
 
 <body>
 
-
+script>
+function submit() {
+	var x = document.getElementById("name");
+	if (x == "")
+   	{alert("The form was submitted");}
+}
+</script>
     <div class="container"align="left">
 	
 
@@ -59,7 +65,7 @@
     <label for="exampleFormControlTextarea1">Leave us a message</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-   <button class="btn btn-primary" type="submit">Send</button>
+   <button class="btn btn-primary" type="submit" onclick="submit()">Send</button>
        
       </div>
 	  </div>
