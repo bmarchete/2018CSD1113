@@ -202,6 +202,7 @@ Toronto Zoo`,
     img: [
       "img/zoo2.jpg",
       "img/zoo4.jpg",
+      "img/zoo5.jpg",
       "img/zoo5.jpg" // put all images here separated by comma
     ]
   },
