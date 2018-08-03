@@ -337,6 +337,30 @@ Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
     Souvenir photo included<br>
     Choose from several tour times to suit your schedule</p>`,
     img: ["img/rogerss11.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg","img/rogerss44.jpg"]
+  },
+  {
+    id: 12, // needs to match with touristData.js information
+    title: `St Lawerence Market`,
+    body: ``,
+    itinerary: `<p class="card-text">North/South Loop makes stops near the following attractions: <br>
+    Starting point: Yonge & Dundas Square <br>
+    CN Tower <br>
+    Rogers Center <br>
+    St. Lawrence Market <br>
+    Casa Loma <br>
+    Royal Ontario Museum <br>
+    Toronto Zoo</p>`,
+    cost: `<p class="card-text" style="bold">From C$258<br>
+    Low Price Guarantee</p>`,
+    location: `<p class="card-text">92-95 Front St E, Toronto ON M5E 1C3 </p>`,
+    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.323480241613!2d-79.39154188450263!3d43.641437779121645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d7b66a4a51%3A0xe210b2f6fe0b1405!2sRogers+Centre!5e0!3m2!1sen!2sca!4v1532890073364" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    thingsToDo: ` <p class="card-text">14-minute helicopter tour over Toronto<br>
+    Enjoy breathtaking views of downtown Toronto, including the CN Tower<br>
+    Admire High Park, Humber Bay and the Lake Ontario waterfront from above<br>
+    Fly over Casa Loma and Evergreen Brick Works<br>
+    Souvenir photo included<br>
+    Choose from several tour times to suit your schedule</p>`,
+    img: ["img/rogerss11.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg","img/rogerss44.jpg"]
   }
 
   // keep copying the contents above and pasting here
