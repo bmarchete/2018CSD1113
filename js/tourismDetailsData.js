@@ -259,6 +259,10 @@ Toronto Zoo`,
   },
 
   {
+   
+    ]
+  },
+  {
     id: 10, // needs to match with touristData.js information
     title: `Toronto Eaton Centre`,
     body: `The Toronto Eaton Centre attracts the most visitors of any of Toronto's tourist attractions.It is North America's busiest shopping mall, due to extensive transit access, its downtown location and tourist traffic. With 48,969,858 visitors in 2015 alone, the centre sees more annual visitors than either of the two busiest malls in the United States (Mall of America and Ala Moana Center), or Central Park in New York City. The number of visitors to the Toronto Eaton Centre in 2015 exceeds the total 2015 passenger counts at Toronto Pearson International Airport, Canada's largest and busiest airport.The main portion of the Toronto Eaton Centre complex is bounded by Yonge Street on the east, Queen Street West on the south, Dundas Street West on the north, and to the west by James Street and Trinity Square. The flagship location of the Hudson's Bay department store chain, which has been part of the complex since Cadillac Fairview's purchase of the building in 2014,is connected to the rest of the complex by a skywalk over Queen Street West, and itself is bounded by Yonge Street to the east, Queen Street West to the north, Richmond Street West to the south, and Bay Street to the west. The main retail mall in the centre is organized around a long arcade, running parallel to Yonge Street.`,
@@ -282,34 +286,6 @@ Toronto Zoo`,
       "img/eaton11.jpg",
       "img/eaton12.jpg",
       "img/Eaton5.jpg" // put all images here separated by comma
-    ]
-  },
-  {
-    id: 9, // needs to match with touristData.js information
-    title: `Bluffers Beach`,
-    body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
-    Bluffers Beach is a Blue Flag beach. The Blue Flag is awarded to beaches and marinas that meet strict standards for water quality, environmental management and education, safety and services.`,
-    itinerary: `North/South Loop makes stops near the following attractions: <br>
-Starting point: Yonge & Dundas Square <br>
-CN Tower <br>
-Rogers Center<br> 
-Bluffers Beach<br>
-St. Lawrence Market<br> 
-Casa Loma <br>
-Royal Ontario Museum<br> 
-Toronto Zoo`,
-    cost: `$10`,
-    location: `1 Brimley Road S, Scarborough, ON M1M 3W3`,
-    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.766052906404!2d-79.22717568483156!3d43.71541067911924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cfbc2309ead7%3A0xd2b62a45e8a611aa!2sBluffer&#39;s+Park+Beach!5e0!3m2!1sen!2sca!4v1532672973186" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `Enjoy And Photograph The Natural Beauty Of The Bluffs<br>
-Swim in Bluffer’s Beach<br>
-Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
- Explore Wildlife In The Bluffs `,
-    img: [
-      "img/beach1.jpg",
-      "img/beach2.jpg",
-      "img/beach3.jpg",
-      "img/beach4.jpg" // put all images here separated by comma
     ]
   },
   {
