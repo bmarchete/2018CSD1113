@@ -279,8 +279,8 @@ Toronto Zoo`,
           Old City Hall</p>`,
     img: [
       "img/images.jpg",
-      "img/Toronto eaton.jpg",
-      "img/Eaton4.jpeg",
+      "img/eaton11.jpg",
+      "img/eaton12.jpg",
       "img/Eaton5.jpg" // put all images here separated by comma
     ]
   },
