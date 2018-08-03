@@ -361,10 +361,10 @@ Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
     Enclosed lower deck and open-air upper deck provide seating options<br>
     Hop on or off at any stop and at any time during the tour</p>`,
     img: [
-      "img/beach1.jpg",
-      "img/beach2.jpg",
-      "img/beach3.jpg",
-      "img/beach4.jpg" // put all images here separated by comma
+      "img/lawerence1.jpg",
+      "img/lawerence2.jpg",
+      "img/lawerence3.jpg",
+      "img/lawerence4.jpg" // put all images here separated by comma
     ]
   }
   
