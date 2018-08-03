@@ -3,7 +3,7 @@ const tourismThumb = [
     id: 1,
     title: "Gooderham Building",
     body: `The Gooderham Building, also known as the Flatiron Building, is a historic office building at 49 Wellington Street East in Toronto, Ontario, Canada. It is located on the eastern edge of the city's Financial District (east of Yonge Street) in the St. Lawrence neighbourhood, wedged between Front Street and Wellington Street, where they join up to form a triangular intersection.`,
-    img: "img/Gooderham1.jpg"
+    img: "img/index/Gooderham.jpg"
   },
   {
     id: 2,
