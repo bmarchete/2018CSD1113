@@ -298,7 +298,7 @@ St. Lawrence Market<br>
 Casa Loma <br>
 Royal Ontario Museum<br> 
 Toronto Zoo`,
-    cost: `Information about costs here`,
+    cost: `$10`,
     location: `1 Brimley Road S, Scarborough, ON M1M 3W3`,
     map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.766052906404!2d-79.22717568483156!3d43.71541067911924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cfbc2309ead7%3A0xd2b62a45e8a611aa!2sBluffer&#39;s+Park+Beach!5e0!3m2!1sen!2sca!4v1532672973186" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
     thingsToDo: `Enjoy And Photograph The Natural Beauty Of The Bluffs<br>
