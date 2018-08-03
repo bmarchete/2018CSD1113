@@ -1,11 +1,11 @@
 // generates header and nav
 const headerLogged = email => {
   return `
-    <div class="col">
+    <div class="col-lg-4 col-sm-12 col-md-12">
             <p class="text-right">Hello <strong>${email}</strong></p>
     </div>
 
-    <div class="col-auto">
+    <div class="col-lg-2 col-sm-12 col-md-12">
         <p class="text-right">
                 <button type="button" class="btn btn-danger" onclick="logout()">Logout</button>
         </p>

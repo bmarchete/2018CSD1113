@@ -53,7 +53,7 @@ const tourismThumb = [
     body: `Bluffer's Park was designed to improve public access to the base of the Scarborough Bluffs. The park features a sandy beach, picnic areas, walks, lookouts, a boat launch and visitors dockage.Originally owned by the Borough of Scarborough, the mainland at the base of the bluffs was transferred to the Metropolitan Toronto and Region Conservation Authority in May 1960 as part of the Waterfront Plan for Metro. `,
     img: "img/bluffer.jpg"
   }
-  
+
   // keep copying the contents above and pasting here
 ];
 
@@ -70,7 +70,7 @@ fillTourismDataThumbs = () => {
   const dataEl = data
     .map(t => {
       return `
-      <div class="col-4  mb-3">
+      <div class="col-md-6 col-sm-12 col-lg-4  mb-3">
         <div class="card">
             <img class="card-img-top" src="${t.img}" alt="Card image cap">
             <div class="card-body">
