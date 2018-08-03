@@ -259,7 +259,10 @@ Toronto Zoo`,
   },
 
   {
-    id: 9, // needs to match with touristData.js information
+    
+  },
+  {
+ id: 9, // needs to match with touristData.js information
     title: `Bluffers Beach`,
     body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
     Bluffers Beach is a Blue Flag beach. The Blue Flag is awarded to beaches and marinas that meet strict standards for water quality, environmental management and education, safety and services.`,
@@ -285,35 +288,7 @@ Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
       "img/beach3.jpg",
       "img/beach4.jpg" // put all images here separated by comma
     ]
-   
-    ]
-  },
-  {
-    id: 10, // needs to match with touristData.js information
-    title: `Toronto Eaton Centre`,
-    body: `The Toronto Eaton Centre attracts the most visitors of any of Toronto's tourist attractions.It is North America's busiest shopping mall, due to extensive transit access, its downtown location and tourist traffic. With 48,969,858 visitors in 2015 alone, the centre sees more annual visitors than either of the two busiest malls in the United States (Mall of America and Ala Moana Center), or Central Park in New York City. The number of visitors to the Toronto Eaton Centre in 2015 exceeds the total 2015 passenger counts at Toronto Pearson International Airport, Canada's largest and busiest airport.The main portion of the Toronto Eaton Centre complex is bounded by Yonge Street on the east, Queen Street West on the south, Dundas Street West on the north, and to the west by James Street and Trinity Square. The flagship location of the Hudson's Bay department store chain, which has been part of the complex since Cadillac Fairview's purchase of the building in 2014,is connected to the rest of the complex by a skywalk over Queen Street West, and itself is bounded by Yonge Street to the east, Queen Street West to the north, Richmond Street West to the south, and Bay Street to the west. The main retail mall in the centre is organized around a long arcade, running parallel to Yonge Street.`,
-    itinerary: `North/South Loop makes stops near the following attractions: <br>
-    Starting point: Yonge & Dundas Square <br>
-    CN Tower <br>
-    Rogers Center <br>
-    St. Lawrence Market <br>
-    Casa Loma <br>
-    Royal Ontario Museum <br>
-    Toronto Zoo</p>`,
-    cost: `<p>Parking Prices <br>Mon-Fri - All day<br>20 Mins-$3.50,1 Hour-$10.50<br>Daytime-$18.00 (Mon-Fri In after 9am Out by 12am)<br>Overnight-$15.00 (Mon-Fri In after 12am Out by 5am)<br>Sat - All day<br>3 Hours-$10.00,6 Hours-$15.00,12 Hours-$20.00<br>Overnight-$15.00 (In after 12am Out by 5am)<br>Sun - All day
-    </p>`,
-    location: `220 Yonge St, Toronto ON M5B 2H1`,
-    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.69862702102!2d-79.38288808483388!3d43.65443817912121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34cb510746bd%3A0x8b89147b8cbbc837!2sCF+Toronto+Eaton+Centre!5e0!3m2!1sen!2sca!4v1533222569811" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: `<p class="card-text">fun to do shopping<br>
-    The Elgin & Winter Garden Theatre Centre<br>
-          Old City Hall</p>`,
-    img: [
-      "img/images.jpg",
-      "img/eaton11.jpg",
-      "img/eaton12.jpg",
-      "img/Eaton5.jpg" // put all images here separated by comma
-    ]
-  },
+   },
   {
     id: 11, // needs to match with touristData.js information
     title: `Rogers Centre`,
