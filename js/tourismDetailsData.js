@@ -259,6 +259,32 @@ Toronto Zoo`,
   },
 
   {
+    id: 9, // needs to match with touristData.js information
+    title: `Bluffers Beach`,
+    body: `Bluffers Park Beach has a ton of facilities for every beach-goer. There is a marina, parkland, swimming, fishing, and picnic areas. In 2009, an 11 year-old boy reeled in a 35lb Chinook Salmon just off the beach! Bluffers Park was built by fill and bringing in sand to create a flat space at the bottom of the clay cliffs. These towering bluffs are loose and crumbly, so keep your eyes peeled for falling sand. If you put your ear right up to the wall of them you might be able to hear the sand and dirt moving and shifting inside. Bluffers Beach used to have some of the poorest water quality in Toronto. After a 2006 study by Lake Ontario Waterkeeper and investment from the City of Toronto, the water quality improved dramatically.
+    Bluffers Beach is a Blue Flag beach. The Blue Flag is awarded to beaches and marinas that meet strict standards for water quality, environmental management and education, safety and services.`,
+    itinerary: `North/South Loop makes stops near the following attractions: <br>
+Starting point: Yonge & Dundas Square <br>
+CN Tower <br>
+Rogers Center<br> 
+Bluffers Beach<br>
+St. Lawrence Market<br> 
+Casa Loma <br>
+Royal Ontario Museum<br> 
+Toronto Zoo`,
+    cost: `$10`,
+    location: `1 Brimley Road S, Scarborough, ON M1M 3W3`,
+    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.766052906404!2d-79.22717568483156!3d43.71541067911924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cfbc2309ead7%3A0xd2b62a45e8a611aa!2sBluffer&#39;s+Park+Beach!5e0!3m2!1sen!2sca!4v1532672973186" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    thingsToDo: `Enjoy And Photograph The Natural Beauty Of The Bluffs<br>
+Swim in Bluffer’s Beach<br>
+Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
+ Explore Wildlife In The Bluffs `,
+    img: [
+      "img/beach1.jpg",
+      "img/beach2.jpg",
+      "img/beach3.jpg",
+      "img/beach4.jpg" // put all images here separated by comma
+    ]
    
     ]
   },
