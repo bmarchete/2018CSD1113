@@ -336,7 +336,7 @@ Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
     Fly over Casa Loma and Evergreen Brick Works<br>
     Souvenir photo included<br>
     Choose from several tour times to suit your schedule</p>`,
-    img: ["img/rogerss1.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg","img/rogerss4.png"]
+    img: ["img/rogerss11.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg","img/rogerss4.png"]
   }
 
   // keep copying the contents above and pasting here
