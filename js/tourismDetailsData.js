@@ -278,7 +278,7 @@ Toronto Zoo`,
     The Elgin & Winter Garden Theatre Centre<br>
           Old City Hall</p>`,
     img: [
-      "img/images.jpg",
+      "img/toronto eaton.jpg",
       "img/Eaton3.jpg",
       "img/Eaton4.jpeg",
       "img/Eaton5.jpg" // put all images here separated by comma
