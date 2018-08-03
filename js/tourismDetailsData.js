@@ -340,29 +340,34 @@ Enjoy a Picnic or a Barbeque In Bluffer’s Park/ Scarborough Bluffs Park <br>
   },
   {
     id: 12, // needs to match with touristData.js information
-    title: `St Lawerence Market`,
-    body: ``,
-    itinerary: `<p class="card-text">North/South Loop makes stops near the following attractions: <br>
+    title: `St Lawrence Market`,
+    body: ` St. Lawrence Market is a major public market in Toronto, Ontario, Canada. It is located at Front St. East and Jarvis St in the Old Town district of Toronto. Until 2015 there were two buildings in the complex, with different purposes. Until it was demolished to make way for redevelopment, St. Lawrence Market North, on the north side of Front St, hosted weekly farmer's markets and antique markets. A public market had been held on the north building site since 1803. Several buildings housed the market, the most recent built in 1968. Starting in 2015, the North building has shut to allow for redevelopment. While the North site is redeveloped, its market functions have moved to south of the South building in a temporary building. 
+    St. Lawrence Market South, on the south side of Front St, is open Tuesday to Saturday, featuring food stalls, restaurants and the St. Lawrence Market Gallery. The South building dates to 1845, has been rebuilt twice, and still incorporates a section of its original building that was used as Toronto City Hall from 1845. St. Lawrence Hall is an event and office building on King at Jarvis, built in 1850. </p>`,
+    itinerary:`North/South Loop makes stops near the following attractions: <br>
     Starting point: Yonge & Dundas Square <br>
     CN Tower <br>
     Rogers Center <br>
     St. Lawrence Market <br>
     Casa Loma <br>
     Royal Ontario Museum <br>
-    Toronto Zoo</p>`,
-    cost: `<p class="card-text" style="bold">From C$258<br>
-    Low Price Guarantee</p>`,
-    location: `<p class="card-text">92-95 Front St E, Toronto ON M5E 1C3 </p>`,
-    map: `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.323480241613!2d-79.39154188450263!3d43.641437779121645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d7b66a4a51%3A0xe210b2f6fe0b1405!2sRogers+Centre!5e0!3m2!1sen!2sca!4v1532890073364" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
-    thingsToDo: ` <p class="card-text">14-minute helicopter tour over Toronto<br>
-    Enjoy breathtaking views of downtown Toronto, including the CN Tower<br>
-    Admire High Park, Humber Bay and the Lake Ontario waterfront from above<br>
-    Fly over Casa Loma and Evergreen Brick Works<br>
-    Souvenir photo included<br>
-    Choose from several tour times to suit your schedule</p>`,
-    img: ["img/rogerss11.jpg", "img/rogerss2.jpg", "img/rogerss3.jpg","img/rogerss44.jpg"]
+    Toronto Zoo`,
+    cost:`From C$42.00 <br> Low Price Guarantee`,
+    location:`93 Front St E, Toronto ON M5E 1C3`,
+    map:`<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11547.921239874364!2d-79.3715381!3d43.648578!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xca0ab5acf1a5b6fd!2sSt.+Lawrence+Market!5e0!3m2!1sen!2sca!4v1532887467661" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>`,
+    thingsToDo:`Hop-on hop-off tour lets you easily visit more than 20 Toronto attractions<br>
+    Create your own itinerary over the course of two consecutive days<br>
+    See top Toronto attractions such as CN Tower and the Harbourfront<br>
+    Onboard commentary provides information about sights as you pass<br>
+    Enclosed lower deck and open-air upper deck provide seating options<br>
+    Hop on or off at any stop and at any time during the tour</p>`,
+    img: [
+      "img/beach1.jpg",
+      "img/beach2.jpg",
+      "img/beach3.jpg",
+      "img/beach4.jpg" // put all images here separated by comma
+    ]
   }
-
+  
   // keep copying the contents above and pasting here
 ];
 
